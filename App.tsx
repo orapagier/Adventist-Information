@@ -1,39 +1,85 @@
+
 import React, { useState } from 'react';
-import { AppTab } from './types';
+import { AppTab, NavigationTarget } from './types';
 import Header from './components/Header';
 import BottomNav from './components/BottomNav';
 import BeliefsTab from './components/BeliefsTab';
 import ManualTab from './components/ManualTab';
+import MinisterTab from './components/MinisterTab';
+import ElderTab from './components/ElderTab';
 import IssuesTab from './components/IssuesTab';
 import BackToTop from './components/BackToTop';
 
 const App: React.FC = () => {
   const [currentTab, setCurrentTab] = useState<AppTab>(AppTab.BELIEFS);
-  
-  // State to track if we are in a detail view within a tab
-  // This allows us to hide the bottom nav or change the header back button behavior
   const [isDetailView, setIsDetailView] = useState(false);
+  const [navigationTarget, setNavigationTarget] = useState<NavigationTarget | null>(null);
 
   const handleTabChange = (tab: AppTab) => {
-    if (tab === currentTab && isDetailView) {
-      // If clicking active tab, go back to root of that tab
-      setIsDetailView(false);
+    if (tab === currentTab) {
+      if (isDetailView) {
+        // If clicking active tab while in detail view, go back to root of that tab
+        setIsDetailView(false);
+      } else {
+        // Optional: If already at root, scroll to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
     } else {
       setCurrentTab(tab);
       setIsDetailView(false); // Reset detail view when switching tabs
+      // Clear navigation target so we don't re-trigger it inadvertently
+      setNavigationTarget(null);
     }
+  };
+
+  const handleNavigate = (target: NavigationTarget) => {
+    setCurrentTab(target.tab);
+    setNavigationTarget(target);
+    // Detail view is handled inside the specific tab component when it receives the target
   };
 
   const renderContent = () => {
     switch (currentTab) {
       case AppTab.BELIEFS:
-        return <BeliefsTab setDetailView={setIsDetailView} />;
+        return (
+          <BeliefsTab 
+            isDetailView={isDetailView}
+            setDetailView={setIsDetailView} 
+            initialSelection={navigationTarget?.tab === AppTab.BELIEFS ? navigationTarget : null}
+            onNavigate={handleNavigate}
+          />
+        );
       case AppTab.MANUAL:
-        return <ManualTab setDetailView={setIsDetailView} />;
+        return (
+          <ManualTab 
+            isDetailView={isDetailView}
+            setDetailView={setIsDetailView} 
+            initialSelection={navigationTarget?.tab === AppTab.MANUAL ? navigationTarget : null}
+            onNavigate={handleNavigate}
+          />
+        );
+      case AppTab.MINISTER:
+        return (
+          <MinisterTab
+            isDetailView={isDetailView}
+            setDetailView={setIsDetailView}
+            initialSelection={navigationTarget?.tab === AppTab.MINISTER ? navigationTarget : null}
+            onNavigate={handleNavigate}
+          />
+        );
+      case AppTab.ELDER:
+        return (
+          <ElderTab
+            isDetailView={isDetailView}
+            setDetailView={setIsDetailView}
+            initialSelection={navigationTarget?.tab === AppTab.ELDER ? navigationTarget : null}
+            onNavigate={handleNavigate}
+          />
+        );
       case AppTab.QUESTIONS:
         return <IssuesTab />;
       default:
-        return <BeliefsTab setDetailView={setIsDetailView} />;
+        return <BeliefsTab isDetailView={isDetailView} setDetailView={setIsDetailView} onNavigate={handleNavigate} />;
     }
   };
 
@@ -51,11 +97,6 @@ const App: React.FC = () => {
 
       <BackToTop />
 
-      {/* 
-        On mobile Android apps, sometimes the nav hides on detail views. 
-        Here we keep it unless strictly necessary, but typically SPA bottom navs persist.
-        We will keep it persistent for better UX.
-      */}
       <BottomNav 
         currentTab={currentTab} 
         onTabChange={handleTabChange} 

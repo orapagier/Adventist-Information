@@ -1,3 +1,6 @@
+
+import { ManualChapter } from './types';
+
 export const MANUAL_CONTENT = {
   chapter1: `
   <div class="text-center mb-10">
@@ -1608,3 +1611,21 @@ export const MANUAL_CONTENT = {
   </ol>
   `
 };
+
+export const MANUAL_CHAPTERS: ManualChapter[] = [
+  { id: '1', title: 'Why a Church Manual?', category: 'Introduction', fullText: MANUAL_CONTENT.chapter1 },
+  { id: '2', title: 'Church of the Living God', category: 'The Church', fullText: MANUAL_CONTENT.chapter2 },
+  { id: '3', title: 'Organization and Authority', category: 'Organization', fullText: MANUAL_CONTENT.chapter3 },
+  { id: '4', title: 'Pastors and Other Church Employees', category: 'Ministry', fullText: MANUAL_CONTENT.chapter4 },
+  { id: '5', title: 'Organizing, Uniting, and Dissolving Churches', category: 'Organization', fullText: MANUAL_CONTENT.chapter5 },
+  { id: '6', title: 'Making Disciples', category: 'Discipleship', fullText: MANUAL_CONTENT.chapter6 },
+  { id: '7', title: 'Membership', category: 'Membership', fullText: MANUAL_CONTENT.chapter7 },
+  { id: '8', title: 'Discipline', category: 'Discipline', fullText: MANUAL_CONTENT.chapter8 },
+  { id: '9', title: 'Local Church Officers', category: 'Local Officers', fullText: MANUAL_CONTENT.chapter9 },
+  { id: '10', title: 'Elections', category: 'Elections', fullText: MANUAL_CONTENT.chapter10 },
+  { id: '11', title: 'Services and Meetings', category: 'Services', fullText: MANUAL_CONTENT.chapter11 },
+  { id: '12', title: 'Finance', category: 'Stewardship', fullText: MANUAL_CONTENT.chapter12 },
+  { id: '13', title: 'Standards of Christian Living', category: 'Lifestyle', fullText: MANUAL_CONTENT.chapter13 },
+  { id: '14', title: 'Marriage and Family', category: 'Family', fullText: MANUAL_CONTENT.chapter14 },
+  { id: 'notes', title: 'Notes', category: 'Appendices', fullText: MANUAL_CONTENT.notes },
+];

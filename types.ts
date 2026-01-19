@@ -1,6 +1,9 @@
+
 export enum AppTab {
   BELIEFS = 'BELIEFS',
   MANUAL = 'MANUAL',
+  MINISTER = 'MINISTER',
+  ELDER = 'ELDER',
   QUESTIONS = 'QUESTIONS'
 }
 
@@ -29,4 +32,10 @@ export interface ContentState {
   isLoading: boolean;
   data: string | null;
   error: string | null;
+}
+
+export interface NavigationTarget {
+  tab: AppTab;
+  itemId: string | number;
+  highlightTerm: string;
 }

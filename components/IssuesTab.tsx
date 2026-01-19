@@ -1,7 +1,9 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import { ChatMessage } from '../types';
 import { fetchChatResponse } from '../services/geminiService';
 import { Send, MessageCircleQuestion } from './Icons';
+import { marked } from 'marked';
 
 const IssuesTab: React.FC = () => {
   const [messages, setMessages] = useState<ChatMessage[]>([
@@ -67,6 +69,12 @@ const IssuesTab: React.FC = () => {
     }
   };
 
+  // Configure marked to interpret line breaks as <br>
+  marked.use({
+    breaks: true,
+    gfm: true,
+  });
+
   return (
     <div className="flex flex-col h-[calc(100vh-112px)] max-w-3xl mx-auto bg-gray-50">
       {/* Messages Area */}
@@ -89,7 +97,15 @@ const IssuesTab: React.FC = () => {
                     <span>Assistant</span>
                 </div>
               )}
-              <p className="whitespace-pre-wrap">{msg.text}</p>
+              {/* Use dangerouslySetInnerHTML for parsed markdown content */}
+              {msg.role === 'model' ? (
+                <div 
+                  className="prose prose-sm max-w-none prose-blue prose-p:my-1 prose-ul:my-1 prose-li:my-0 text-gray-800"
+                  dangerouslySetInnerHTML={{ __html: marked.parse(msg.text) as string }} 
+                />
+              ) : (
+                <p className="whitespace-pre-wrap">{msg.text}</p>
+              )}
               <div className={`text-[10px] mt-1 text-right ${msg.role === 'user' ? 'text-blue-200' : 'text-gray-400'}`}>
                 {new Date(msg.timestamp).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}
               </div>
