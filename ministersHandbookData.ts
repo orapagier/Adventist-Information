@@ -1182,26 +1182,1576 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
       <p class="mb-4">Supporting the decision. When an action is taken, the duty of all members of the committee includes supporting the action, regardless of whether they voted for or against it.</p>
     `
   },
-  { id: '19', title: 'Ministry for All Members', category: 'Leadership', fullText: getPlaceholder('Ministry for All Members') },
-  { id: '20', title: 'Large Districts', category: 'Leadership', fullText: getPlaceholder('Large Districts') },
-  { id: '21', title: 'Church Growth', category: 'Evangelism', fullText: getPlaceholder('Church Growth') },
-  { id: '22', title: 'The Worship Service', category: 'Worship', fullText: getPlaceholder('The Worship Service') },
-  { id: '23', title: 'Fellowship and Visitation', category: 'Pastoral Care', fullText: getPlaceholder('Fellowship and Visitation') },
-  { id: '24', title: 'Counseling', category: 'Pastoral Care', fullText: getPlaceholder('Counseling') },
-  { id: '25', title: 'Church Community', category: 'Community', fullText: getPlaceholder('Church Community') },
-  { id: '26', title: 'Church Finance', category: 'Administration', fullText: getPlaceholder('Church Finance') },
-  { id: '27', title: 'Church Facilities', category: 'Administration', fullText: getPlaceholder('Church Facilities') },
-  { id: '28', title: 'Church Discipline', category: 'Discipline', fullText: getPlaceholder('Church Discipline') },
-  { id: '29', title: 'Church Schools', category: 'Education', fullText: getPlaceholder('Church Schools') },
-  { id: '30', title: 'Baptism', category: 'Services', fullText: getPlaceholder('Baptism') },
-  { id: '31', title: 'Communion', category: 'Services', fullText: getPlaceholder('Communion') },
-  { id: '32', title: 'Weddings', category: 'Services', fullText: getPlaceholder('Weddings') },
-  { id: '33', title: 'Child Dedication', category: 'Services', fullText: getPlaceholder('Child Dedication') },
-  { id: '34', title: 'Anointing and Deliverance', category: 'Services', fullText: getPlaceholder('Anointing and Deliverance') },
-  { id: '35', title: 'Funerals', category: 'Services', fullText: getPlaceholder('Funerals') },
-  { id: '36', title: 'Church Opening, Dedication, and Groundbreaking', category: 'Services', fullText: getPlaceholder('Church Opening, Dedication, and Groundbreaking') },
-  { id: '37', title: 'House Blessing', category: 'Services', fullText: getPlaceholder('House Blessing') },
-  { id: '38', title: 'Pastoral Installation', category: 'Services', fullText: getPlaceholder('Pastoral Installation') },
-  { id: '39', title: 'Retirement', category: 'Ministry', fullText: getPlaceholder('Retirement') },
-  { id: 'Index', title: 'Index', category: 'Index', fullText: getPlaceholder('Index') },
+  {
+    id: '19',
+    title: 'Ministry for All Members',
+    category: 'Leadership',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 19</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Ministry for All Members</h2>
+      </div>
+
+      <p class="mb-4">The gospel commission was clearly intended for all Christians, not just the disciples to whom it was first addressed, nor to a select group of professional ministers. Likewise, the gifts of the Spirit are given to all "for the equipping of the saints for the work of ministry, for the edifying of the body of Christ" (Eph. 4:12). Everyone receiving the Holy Spirit receives ministering gifts designated to be used in ministry for Christ.</p>
+      
+      <p class="mb-4">The Greek word laos, from which the word "laity" is derived, has nothing to do with an amateur or secondary status within the church. Rather, it includes the entire people of God. A false and artificial distinction separates the work of the church from the laity and places it in the hands of clergy, as if the work of ministry is the responsibility of a paid professional. Leadership in the church becomes the responsibility of those called and appointed to these unique roles, yet ministry in the broadest sense should be recognized as the work of the entire church membership. "Not upon the ordained minister only rests the responsibility of going forth to fulfill this commission. Everyone who has received Christ is called to work for the salvation of his fellow men" (The Acts of the Apostles, p. 110).</p>
+      
+      <p class="mb-4"><strong>The challenge.</strong> — At His ascension Jesus gave to His church the assignment to "go into all the world and preach the gospel to every creature" (Mark 16:15). To His small group of followers the work must have seemed an impossible assignment until they understood His plan for its fulfillment. The work must be accomplished, not by our own individual will and prowess, but by the Holy Spirit working through us. In this plan no hierarchy exists, for everyone is a minister performing some ministry for which they have been specially gifted.</p>
+      
+      <p class="mb-4">It is easy to think of the church primarily as an organization or institution, rather than as a fellowship or community of faith, which is the predominant meaning of "church" in the New Testament. We sometimes assume that the role of church members is merely to help professional ministers do their work, when in fact the function of ministerial leadership includes helping the people do their work. "If pastors would give more attention to getting and keeping their flock actively engaged at work, they would accomplish more good, have more time for study and religious visiting, and also avoid many causes of friction" (Gospel Workers, p. 198).</p>
+      
+      <p class="mb-4">Everyone receiving the Holy Spirit receives a gift for ministry, but not everyone receives the same gift. Each person should accept the responsibility for the gifts God provides for ministry. To presume that everyone should perform the same ministry comprises a misunderstanding of the gifts of the Spirit. "The work of God in this earth can never be finished until the men and women comprising our church membership rally to the work, and unite their efforts with those of ministers and church officers" (Christian Service, p. 68). A test of evangelism is not only how many come into the church to worship, but how many go out into the community to serve.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">MOTIVATING VOLUNTEERS</h4>
+      
+      <p class="mb-4">Leading volunteers in the church is very different from managing paid employees, who have to do a job whether they want to or not in order to earn a living. Servant leaders do not presume authority over church workers. They work because they want to. Success in pastoral leadership is tied to the ability to motivate volunteers.</p>
+      
+      <p class="mb-4"><strong>Preach inspirationally.</strong> — Christ-centered, biblically-based preaching inspires people to do church work for altruistic, spiritual reasons. Christian service should be performed, not in order to be saved, but because we are saved. True service motivation is based on thankfulness, not guilt.</p>
+      
+      <p class="mb-4"><strong>Involve members in planning.</strong> — Imposing assignments on people who have not been a part of the planning process leads to resistance. If people are involved in the planning, they will treat the project as a personal challenge. Planning clarifies the mission and purpose of a project and gets people involved. When the planning process gets members enthusiastic about a given program, they'll want to help lead it.</p>
+      
+      <p class="mb-4"><strong>Include Job descriptions.</strong> — With no clear understanding of what a given task requires, there is little likelihood that people will want to accept the job. Ill-defined assignments lead to frustration, both for those attempting to do the task and those trying to motivate them to work. Job descriptions for positions of service in the church should be clearly stated.</p>
+      
+      <p class="mb-4"><strong>Recognize and appreciate faithful service.</strong> — Church leaders may not be looking for a compliment, but they do look for indicators regarding the success of their work and for appreciation of their service. They need to know that their work is valued.</p>
+      
+      <p class="mb-4"><strong>Protect leaders from overload.</strong> — Often willing helpers in the church are overloaded to the point of exhaustion. People lead busy lives and have many work, community, and family responsibilities. Overworking church leaders may lead them to drop out of church work altogether.</p>
+      
+      <p class="mb-4"><strong>Share the responsibility.</strong> — Working with volunteers over whom the pastor has little direct control becomes a challenge. At times it may seem easier just to do a specific task, rather than depend on the work of volunteers. But the ministry of the church belongs to everyone. Ellen White states, "The burden of church work should be distributed among its individual members" (Review and Herald, July 9, 1895).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">WORKING WITH CHURCH LEADERS</h4>
+      
+      <p class="mb-4"><strong>The church as a body.</strong> — With the range of the church's work so broad and the needed skills so many, no one person, including the pastor, has all the gifts needed to accomplish it. Rather, through the gifts of the Spirit God provides for the church's needs. No individual alone represents the whole of the body of Christ. "If you carry lines of work for which you are not adapted, your efforts in presenting the word will prove unsuccessful" (Testimonies, vol. 7, p. 246).</p>
+      
+      <p class="mb-4"><strong>Working with elders.</strong> — "The minister should not gather to himself all lines of responsibility, but should share these with the local elder(s) and other officers. . . . The elder(s) should, in counsel with the minister, assist in the pastoral responsibility, which includes visiting the church members, ministering to the sick, arranging or leading out in anointing services and child dedications, and encouraging those who are disheartened" (Church Manual).</p>
+      
+      <p class="mb-4"><strong>Matching gifts and assignments.</strong> — When the church program is planned, attention should be given as to what gifts are available in the congregation. Recognize abilities, and match those gifts with the program. Working with the church nominating committee provides the opportunity to structure an officer group in the church matched to the plans and programs to be accomplished. When the committee meets, plans and job descriptions of offices that need to be filled should be made available, thus providing the committee with lists of the type of personnel needed for church offices.</p>
+      
+      <p class="mb-4"><strong>Installation of officers.</strong> — A formal installation service for church leaders at the beginning of the officer year emphasizes the significance of church offices and provides an occasion for the church to recognize and dedicate its leadership. The following litany of dedication is an example of the kind of service that could be used.</p>
+      
+      <p class="mb-4">Leader: To the worship of God and the work of the church—</p>
+      <p class="mb-4">Officers: We dedicate ourselves.</p>
+      <p class="mb-4">Leader: To the fulfilling of our assigned duties under the guidance of God, and for the edification and leadership of young and old—</p>
+      <p class="mb-4">Officers: We consecrate our services.</p>
+      <p class="mb-4">Leader: To the setting of a right example of Christian living in our homes, at our work, and before all with whom we come in contact—</p>
+      <p class="mb-4">Officers: We commit our lives.</p>
+      <p class="mb-4">Leader: Your chosen leaders have promised, by the grace of God, to faithfully fulfill the duties of the offices to which they have been elected. Will you pledge your support, assistance, and prayers as they work with you in doing Christ's work in the church?</p>
+      <p class="mb-4">Congregation: We will.</p>
+      <p class="mb-4">Leader: [Dedicatory prayer.]</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">TRAINING MEMBERS</h4>
+      
+      <p class="mb-4">"Every church should be a training school for Christian workers. Its members should be taught how to give Bible readings, how to conduct and teach Sabbath school classes, how best to help the poor and to care for the sick, how to work for the unconverted. There should be schools of health, cooking schools, and classes in various lines of Christian help work. There should not only be teaching, but actual work under experienced instructors" (The Ministry of Healing, p. 149).</p>
+      
+      <p class="mb-4"><strong>Conference resources.</strong> — The conference leadership and departmental structure have both materials and personnel available to assist in the training of members for service. They are specialists in their fields, and can provide valuable help in conducting seminars and training schools.</p>
+      
+      <p class="mb-4"><strong>Congregational resources.</strong> — Use the expertise within the congregation. Some in the congregation may have filled church leadership positions for many years. This experience can be shared and passed on to new officers; others may have special training in areas useful to church offices. These can also be enlisted in the training process.</p>
+    `
+  },
+  {
+    id: '20',
+    title: 'Large Districts',
+    category: 'Leadership',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 20</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Large Districts</h2>
+      </div>
+
+      <p class="mb-4">Most Adventist churches are in some form of multi-church district configuration; relatively few churches stand alone. In some divisions a pastor with associates may be assigned as many as 15 or 20 congregations. Pastoral leadership in such settings requires special skills in delegation, training, and administration. In such a setting pastors can meet with a congregation only a few times a year and cannot closely relate to each congregation. In these areas careful thought should be given as to the location of the pastor's living quarters in order to optimize both travel considerations and family interests.</p>
+      
+      <p class="mb-4"><strong>Leadership training.</strong> — In these churches the training of church officers and the delegating of leadership responsibilities become necessary. These leaders do most of the preaching, lead out in evangelism, care for nurturing the members of their congregation, and administer the various functions of the church. Pastors in these settings operate primarily in the areas of planning, administrating, vision casting, and educating. Working with and training these church officers is of primary importance. Such training should include instruction in:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>sermon preparation and presentation</li>
+        <li>conducting committee meetings</li>
+        <li>visitation</li>
+        <li>departments of the church</li>
+        <li>care of church property</li>
+        <li>Adventist history and its message</li>
+        <li>care of new members</li>
+      </ul>
+      
+      <p class="mb-4">It is recommended that congregations or conferences conduct a minimum of one training seminar for elders each year. Congregations should cover the travel expense of elders attending these meetings. In addition, pastors should plan quarterly meetings with the elders in the district. These meetings will focus on plans for the district as well as for individual congregations, addressing such issues as evangelism, sermon planning, visitation, district and church goals, and the pastor's itinerary. Elder training can also be conducted during these quarterly meetings.</p>
+      
+      <p class="mb-4"><strong>Itinerary planning.</strong> — The pastor's itinerary should be planned far enough in advance so that each congregation will know when to expect a visit and speaking appointment from the pastor. This will provide opportunity for personal contact with members and for the scheduling of baptisms during these pastoral visits. There will be occasions that emergencies, such as illness and funerals, will interrupt the planned itinerary, but other special services can be planned in advance and included in the schedule.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DISTRICT MEETINGS</h4>
+      
+      <p class="mb-4">A quarterly meeting during which the district membership meets together for an entire weekend provides an additional opportunity for the pastor to experience fellowship personally with members of the churches in the district. These meetings are similar, in fellowship and worship, to the experience of a camp meeting, providing opportunity for:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>fellowship among members from various congregations</li>
+        <li>coordination of evangelism plans in the district</li>
+        <li>sharing one another's joys and concerns in the various churches</li>
+        <li>strengthening the work of church departments</li>
+        <li>planning joint ventures, such as the construction of a building or an evangelistic outreach</li>
+        <li>programs for children and youth groups</li>
+      </ul>
+      
+      <p class="mb-4">Members of the district select leaders for these meetings. Working with the pastor, these leaders plan the district meeting programs. Conference leaders should be invited to participate, providing their influence, expertise, and guidance in planning these events.</p>
+    `
+  },
+  {
+    id: '21',
+    title: 'Church Growth',
+    category: 'Evangelism',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 21</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Growth</h2>
+      </div>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">NEW MEMBERS</h4>
+      
+      <p class="mb-4">Churches continue to exist only by receiving a steady growth of new members. Without this growth, membership will decline, not only because of people moving away from the area, but, over time, by aging and death of its older members, until finally no one is left in the church. Without new membership the church will be doomed to extinction. There are three sources of membership growth—biological, transfer, and evangelism—and each one is vital and important to the future of the church.</p>
+      
+      <p class="mb-4"><strong>Biological growth.</strong> — The children of the church are its most treasured resource. The fondest desire of both the church family and the nuclear family centers on its children, with the prayer that they will be part of the kingdom of God both in the present and in the kingdom to come. As important as other means of growth may be to the future of the church, none can be more important than the saving of its own children. It would be a travesty if the church were to expend efforts to save the outside world at the expense of saving its children. The heritage of the church is best preserved by those who have grown up in its care. The church provides Sabbath school programs and materials for its children from their earliest age, and continues on in their development with Christian education and youth ministries to secure their growth in grace.</p>
+      
+      <p class="mb-4">The church must be mindful and have intentional oversight of its developing children while providing at the proper time preparation for baptism and a full joining of the membership of the church. "Children of eight, ten, or twelve years are old enough to be addressed on the subject of personal religion. Do not teach your children with reference to some future period when they shall be old enough to repent and believe the truth. If properly instructed, very young children may have correct views of their state as sinners and of the way of salvation through Christ" (Testimonies, vol. 1, p. 400). In settings with a church school available, it works well to schedule a baptismal class in connection with worship and spiritual emphasis in the school schedule. With no church school available, arrangements should be made to provide the baptismal class in connection with family and church activities.</p>
+      
+      <p class="mb-4"><strong>Transfer growth.</strong> — When members move from one location to another, contact should be maintained with them by assisting in the transfer of membership to a sister church in the new area. Procedures for the transfer of membership are given in the Church Manual. Both the church and the individual member benefit when an active and intentional plan is put in place in the facilitating of membership transfer. Notification of a member's moving to a new area should be given to the nearest church in order to maintain contact and assist in their welcome to a new church family.</p>
+      
+      <p class="mb-4"><strong>Evangelism growth.</strong> — A pastor is an evangelist, and the church is an evangelistic center. In the worship service, the Sabbath school, and every other program, the church must continuously keep in mind visitors and guests who are not members. Everything said should be passed through the soul-winning filter "How will this sound to one who is not a member? How will this be perceived by one who is not a Christian?" While correct doctrine and scriptural understanding are of critical importance, yet warm fellowship is more important. In such a setting people move from new conversion to full discipleship.</p>
+      
+      <p class="mb-4">The members of the New Testament church went everywhere telling the story of Jesus. Most new converts are won by members relating to people at work and in their neighborhoods. This can be accomplished through a multitude of outreach programs, including cooking and health classes, youth ministries, women's ministries, community services, and recreational activities. "Let church members during the week act their part faithfully, and on the Sabbath tell their experiences. The meeting will then be as meat in due season, bringing to all present new life and fresh vigor" (Gospel Workers, p. 199).</p>
+      
+      <p class="mb-4">If every church program—Vacation Bible School, cooking schools, health events, youth and children's Sabbath school programs, participation in ADRA missionary trips, church social events, community involvement, youth programs—were considered and funded as an evangelistic event, evangelistic meetings would be even more productive.</p>
+      
+      <p class="mb-4">Be aware of people in the area who are experiencing such transitions as births, deaths, and graduations, and acknowledge this event by sending a congratulation or sympathy card. Obtain information regarding new residents coming into the area, and send them a letter welcoming them to the community, including a list of services offered by the church and an invitation to attend the worship service. Engage in some form of evangelistic meetings or seminars on a regular basis.</p>
+      
+      <p class="mb-4"><strong>Inactive membership concern.</strong> — Active members, especially elders, can be effective in reclaiming inactive members because they have been friends in the past and understand some of the reasons that caused them to drop out of fellowship. Those working for inactive members must be prepared to listen to pain without becoming either discouraged or defensive. People often drop out because of some hurt perceived or experienced within the church or from influences outside the church. Often they may be reclaimed simply by a listening ear and a loving heart.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ESTABLISHING NEW MEMBERS</h4>
+      
+      <p class="mb-4">The Great Commission calls the church to "make disciples of all the nations" (Matt. 28:19). Poorly prepared members make weak churches. "The accession of members who have not been renewed in heart and reformed in life is a source of weakness to the church. This fact is often ignored. Some ministers and churches are so desirous of securing an increase of numbers that they do not bear faithful testimony against unchristian habits and practices. Those who accept the truth are not taught that they cannot safely be worldlings in conduct while they are Christians in name" (Testimonies, vol. 5, p. 172).</p>
+      
+      <p class="mb-4"><strong>Instruction before baptism.</strong> — Those seeking membership in the church need to know the principles for which the church stands. They should not be asked to commit themselves without knowing what their commitment includes. Baptismal instruction should include personal reading and study, Bible studies, public meetings, and baptismal classes. One of the most productive means of instruction in a church's evangelistic program focuses on the pastor's Bible class. The class often meets during the regular Sabbath school class time and is designed specifically for nonmembers and new members. The class studies special doctrinal lessons and spiritual life issues. The same series can be repeated from time to time, since class members, as they mature in their Christian experience, graduate into regular Sabbath school classes.</p>
+      
+      <p class="mb-4">Each baptismal candidate should be examined concerning the fundamental beliefs of the Adventist Church as stated in the baptismal certificate. No person or group outside the congregation has authority to add or drop a name from church membership. That responsibility rests solely with the church body.</p>
+      
+      <p class="mb-4"><strong>New-member guardians.</strong> — Christian fellowship and community prevails as central to stability in the church. However, new members may not know anyone in the church and find it difficult to integrate into a well-established social order. To overcome this disadvantage, the church needs an intentional network of spiritual guardians for new members—a friendship system whereby each new member is coupled with an experienced one. "Those who have newly come to the faith should be patiently and tenderly dealt with, and it is the duty of the older members of the church to devise ways and means to provide help and sympathy and instruction" (Evangelism, p. 351).</p>
+      
+      <p class="mb-4"><strong>Encourage participation.</strong> — Encourage new members to discover their spiritual gifts and engage in ministry that fits those gifts. "When souls are converted, set them to work at once. And as they labor according to their ability, they will grow stronger" (Evangelism, p. 355). Those newly converted are in a unique position to reach out to family and friends who are not part of the Adventist community. The combined effect of the new member's influence on old friends and the attractive example of a changed life makes powerful soul-winning tools. This kind of opportunity relates to Jesus as He instructed the former demoniac, "Go home to your friends, and tell them what great things the Lord has done for you, and how He has had compassion on you" (Mark 5:19).</p>
+    `
+  },
+  {
+    id: '22',
+    title: 'The Worship Service',
+    category: 'Worship',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 22</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">The Worship Service</h2>
+      </div>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CONGREGATIONAL WORSHIP</h4>
+      
+      <p class="mb-4">Throughout Scripture God calls His people to worship, and this worship experience should be both an individual and a corporate act. A person does not necessarily have to be part of a congregation to worship; still, the Bible clearly calls for group worship. In order to worship together, some amount of order and planning is needed. Biblical models of worship present four primary actions on the part of the worshippers, with singing, praying, giving, and proclaiming included. These contribute to the individual's personal worship experience in a corporate setting. Such worship emphasizes both the transcendence and immanence of God. God is great and God is here; God is above us and God is among us.</p>
+      
+      <p class="mb-4">While worship ought not to be for religious entertainment, it should captivate and hold the interest of the congregation as they are led into an encounter with God. While worship ought not to be only for doctrinal exposition, purity and clarity of doctrine should be an integral part of true worship. While worship ought not to be only for the purpose of making an evangelistic appeal, worship should lead worshippers to commit their lives to God. The purpose of corporate worship is simply: to come into fellowship before God, our Maker and Redeemer, with praise, rejoicing, contrition, and humility.</p>
+      
+      <p class="mb-4"><strong>Inspiring worship.</strong> — The angel of Revelation 14:6, 7 declares, "Fear God and give glory to Him, for the hour of His judgment is come; and worship Him who made heaven and earth, the sea and the springs of water." This calls worshippers to respect, reverence, and awe; corporate worship leads people into the throne room of God. "Unless correct ideas of true worship and true reverence are impressed upon the people, there will be a growing tendency to place the sacred and eternal on a level with common things, and those professing the truth will be an offense to God and a disgrace to religion" (Testimonies, vol. 5, p. 500).</p>
+      
+      <p class="mb-4"><strong>Joyful worship.</strong> — Psalm 100 calls the people to "make a joyful shout to the Lord, all you lands! Serve the Lord with gladness; come before His presence with singing. Know that the Lord, He is God; it is He who has made us, and not we ourselves." Heartfelt emotion is integral in true worship, and its expression may be openly and unabashedly displayed.</p>
+      
+      <p class="mb-4"><strong>Meaningful worship.</strong> — Worship appeals to the mind and is always intellectually sound. God invites His people, "Come now, and let us reason together" (Isa. 1:18).</p>
+      
+      <p class="mb-4"><strong>Experiential worship.</strong> — Worship is not done by proxy; it is experiential. No one else can worship for us. Worship should not be a routine or ceremony performed for us by another. Worship is not a tradition, nor is it a passive spectator event. Worship comprises a personal interaction between the Creator and the created—an encounter with God.</p>
+      
+      <p class="mb-4"><strong>Participatory worship.</strong> — Those in charge of the worship service should include as many participants as possible, including youth and children. Worship leaders should be representative of Seventh-day Adventist principles and values. When members feel they have a ministry to offer the congregation, their commitment to the church and church programming increases. Elders should not feel that they should introduce and perform every aspect of the worship service. Involvement of the members will increase the joyful spirit of worship. Youth should be invited to offer prayer, call for the offering, read the scripture, etc.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ELEMENTS OF WORSHIP</h4>
+      
+      <p class="mb-4">Congregational worship calls for careful planning, and the better the planning, the more comfortable and relaxed the worship service. Though the purpose of planning should not be to establish rigid formats, it should provide for a smooth flow of the worship elements. "Is it not your duty to put some skill and study and planning into the matter of conducting religious meetings—how they shall be conducted so as to do the greatest amount of good, and leave the very best impression upon all who attend?" (Ellen G. White, in Review and Herald, Apr. 14, 1885).</p>
+      
+      <p class="mb-4">Pastors have a direct responsibility for Sabbath worship and should enlist the aid of church leaders in both the preparation and execution of the service, involving them as worship coordinators and worship committee members. With the pressure of the delivery of the sermon as a primary responsibility of the pastor, the details of preparing the personnel and facilities of the church for worship can wisely be given to able associates. A Sabbath morning checklist reviewing the preparation of scheduled music, sound system needs, platform personnel, platform arrangements, and other details will assist in this process.</p>
+      
+      <p class="mb-4"><strong>Preparing the congregation.</strong> — As people enter the church sanctuary, there will necessarily be some movement and conversation as part of the fellowship and activity of the congregation. Live or recorded prelude music may assist in making this time more comfortable. Attempts to stifle this activity in the name of reverence becomes unnecessary and unrealistic and may create a tension among the worshippers. However, a reverent attitude in preparation for worship should be maintained. A welcome and announcements period may serve to focus the attention of the congregants and draw them into an attitude of worship. Such announcements should focus on church life and avoid becoming promotional and fund-raising campaigns. Let the announcements create an atmosphere of warmth and fellowship, making them a part of church life, and then close the announcement period with a call to worship.</p>
+      
+      <p class="mb-4"><strong>Singing.</strong> — Congregational singing and special music are vital parts of the worship experience. Inspiration arises not only from the words employed and the emotive power of the music, but from the shared experience of singing as a worshipping community. Songs from the perspective of children and youth should be included, providing them with an involving and important part of the worship service. "Music should have beauty, pathos, and power" (Testimonies, vol. 4, p. 71). Choirs, while a blessing in worship, must not replace congregational singing. "The ability to sing is a talent of influence, which God desires all to cultivate and use to His name's glory" (Evangelism, p. 504).</p>
+      
+      <p class="mb-4">With a great variety in musical tastes and traditions reflected in different cultural backgrounds, age groups, and church personalities, establishing rigid standards and formulas for acceptable music often becomes a divisive and futile exercise. What one perceives as worshipful another may regard as inappropriate for worship. While causing offense to anyone should be avoided as much as possible, congregations should recognize the importance of providing a variety of musical options that serve different groups in the church. Music chosen should reflect biblical teachings.</p>
+      
+      <p class="mb-4"><strong>Praying.</strong> — Several occasions for prayer exist in a worship service. Each has a specific purpose and meaning that should be considered in advance and reflected in the wording chosen for the prayer.</p>
+      
+      <p class="mb-4">Invocation. The service is usually opened with a brief prayer of invocation, with the congregation standing, that recognizes and invites the presence of God.</p>
+      
+      <p class="mb-4">Pastoral prayer. Further into the service, usually following a congregational hymn or the reading of scripture, a person prays the pastoral prayer. The elements of this prayer include praise and thanks to God for His grace and blessings; confession of sin and the seeking of forgiveness; general and specific requests for guidance, grace, and healing mercy; intercession in the affairs of the church, the community, and the nation; and commitment to service.</p>
+      
+      <p class="mb-4">This prayer is usually the longest of the worship service prayers. Frequently modeled in Scripture, the congregation generally kneels for the prayer. However, there may be settings and situations in which kneeling is not a practical option. Some, because of physical condition, may not be able to kneel, and these should not be made to feel inferior or sacrilegious in assuming another prayer posture. "It is not always necessary to bow upon your knees in order to pray" (The Ministry of Healing, p. 510).</p>
+      
+      <p class="mb-4">Careful planning in advance provides for what needs to be included in the prayer and maintains a reasonable length of time for the prayer. "One or two minutes is long enough for any ordinary prayer" (Testimonies, vol. 2, p. 581). "Prosy, sermonizing prayers are uncalled for and out of place in public. A short prayer, offered in fervor and faith, will soften the hearts of the hearers; but during long prayers they wait impatiently, as if wishing that every word might end it" (Gospel Workers, p. 179).</p>
+      
+      <p class="mb-4">Thanksgiving. The prayer of thanksgiving may occur prior to the giving of the offering or at its conclusion as the deacons bring forward the collected gifts of the congregation. The prayer, usually of short duration, includes praise for the blessings experienced by the congregation and the individual. If initiated prior to the offering, the congregation usually remains seated. If following the offering, some congregations stand and sing the doxology as the offering is brought forward, followed by the prayer of thanksgiving.</p>
+      
+      <p class="mb-4">Benediction. The word "benediction" literally translated means "words of blessing." This prayer has a unique purpose—to dismiss the congregation with the blessing of God. Not a summary of the sermon or an occasion for specific requests that should already have been covered in the pastoral prayer, this prayer should be of short duration and may come directly from Scripture. The hymnal contains benedictions that will appropriately serve this purpose.</p>
+      
+      <p class="mb-4"><strong>Giving.</strong> — As a direct part of worship, giving has great potential for teaching basic Christian concepts of self-denial, sacrifice, and trust. The offering appeal must emphasize a spiritual motivation and should also explain the financial need and how giving supports the work of the church. The appeal should be brief, intelligent, and worshipful. Rather than a fund-raising event, the offering provides a tangible opportunity for the congregation to express praise to God by returning to Him a tithe of His blessings and offerings of appreciation for His sustaining grace. Through the tithe and offerings the congregation acknowledges God's blessings during the week, that He is Lord, and that all we have belongs to Him. These gifts indicate that our love for Him flows freely from a grateful heart.</p>
+      
+      <p class="mb-4"><strong>Proclaiming.</strong> — Worship, centered in the self-disclosure of God through Scripture, becomes a rational act because the divine is being revealed in words intelligible to human minds. We learn from these words and receive instruction in Christian service and discipline. And we rejoice in the good news of salvation. This revelation of God places a heavy responsibility in worship on both those who proclaim the message and those who hear. Proclamation allows the congregation to hear the message of the Lord through the Scriptures.</p>
+      
+      <p class="mb-4">Preparation. In order to address the spiritual needs of the congregation properly, leaders must plan the sermonic year in a careful manner. This includes looking at not only what should be presented in the future, but also what has been presented during the past year or two. Look for what has been addressed, what has been neglected, and what has been overemphasized. Topics should also coincide with events of the calendar and with the church and school schedules.</p>
+      
+      <p class="mb-4">Yearly planning provides several benefits for preaching. It leads to balance in subject selection and allows for advance planning with those who contribute to the worship service in such areas as music, scripture readings, and children's stories. Planning ahead gives opportunity for those who invite guests to the worship service to select services that would appeal to specific people. In addition, yearly planning gives individuals time to develop the planned sermon topics, significantly reducing the pressure of last-minute sermon preparation. Obviously this annual plan will need to be flexible, as current events and emergencies may occasionally intrude on the schedule.</p>
+      
+      <p class="mb-4">Look for creative ways to express the sermon material. Creativity seems at times to come as a unique inspiration, but most often comes from diligent effort. It may be easier to fall into modes of expression with which we are familiar, but these also may become tiresome to the hearers week after week. In the area of creativity the worship committee can do some of its best work. No one person has all the fresh ideas, but in shared thinking, creativity can flourish.</p>
+      
+      <p class="mb-4">Scripture. The reading of scripture as proclamation has significant power in worship and presents the word of the King of the universe to the congregation. Scripture also calls, in a powerful way, to worship, and directs the mind to the theme and emphasis of worship for the day. Careful planning, selection, and rehearsal needs to be given to this reading of the Word of God. Responsive readings directly involve the congregation, providing an opportunity both to hear and repeat scripture. There are many such readings in the hymnal, but it may be that a specifically prepared reading placed in the bulletin or projected on a screen will more directly relate to the message of the day.</p>
+      
+      <p class="mb-4">Ministering to children. The interest of children should be kept in mind throughout the worship service. Obviously, with the age spread of infants to adults, every age level cannot be addressed at all times. Yet with careful planning, even small children can find moments of interest in the service. Some have found that a story for children prior to the sermon addresses this concern. Children are invited to come forward and sit together during the storytelling time, and the story may appropriately fit the theme of the day. Only individuals who have a particular love for children and who have the ability to tell the story effectively should be chosen for this portion of the worship service. This time must be carefully guarded to keep it within a time frame of five minutes or less.</p>
+      
+      <p class="mb-4">Many churches take a children's offering at the time of the children's story and use the funds to support the educational and children's programs of the church. Some may be averse to receiving more than one offering in the service, but others enjoy giving to the children and seeing them take the offering to the front, and the offering provides the additional potential of orienting children to the habit of giving.</p>
+      
+      <p class="mb-4">The sermon. The sermon must always be Bible-centered. Biblical sermons do not just include the Bible—rather, they begin with the Bible. Biblical preachers come to the Bible first in their sermon preparation. Biblical preaching does not look for a text that agrees with what the speaker wants to say. Rather, biblical preaching seeks to find what the Bible says. Many biblical topics lend themselves to series preaching, particularly studies of a given book, or topics such as the Ten Commandments, the seven last words of Christ, or the Beatitudes. But generally speaking, it is wise to keep series preaching to three or four sermons. In the case of a longer series, it may be broken up with another topic partway along.</p>
+      
+      <p class="mb-4">Although the message of the sermon should be considered of primary importance, even the finest of messages poorly delivered is ineffective. Even though we recognize that entertainment is not the objective of the worship service, using this as an excuse for poor preaching cannot be thought of as acceptable.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER IN WORSHIP</h4>
+      
+      <p class="mb-4">To think of worship as consisting of the preacher as actor, God as prompter, and congregation as audience is common. Actually, true worship consists of the congregation as actor, the preacher as prompter, and God as the audience. "Much of the public worship of God consists of praise and prayer, and every follower of Christ should engage in this worship" (Ellen G. White, in Signs of the Times, June 24, 1886). Thus, for each worshipper, worship becomes a participation event. Sample worship formats may be found in the Church Manual.</p>
+    `
+  },
+  {
+    id: '23',
+    title: 'Fellowship and Visitation',
+    category: 'Pastoral Care',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 23</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Fellowship and Visitation</h2>
+      </div>
+
+      <p class="mb-4">Central to the community of the early New Testament church was the concept of shared fellowship, or koinonia. Of the growing membership in the church, Luke reports that "they continued steadfastly in the apostles' doctrine and fellowship, in the breaking of bread, and in prayer. . . . So continuing daily with one accord in the temple, and breaking bread from house to house, they ate their food with gladness and simplicity of heart, praising God and having favor with all people. And the Lord added to the church daily those who were being saved" (Acts 2:42-47).</p>
+      
+      <p class="mb-4">Within this fellowship Christian association strengthens both the individual and the church. While the importance of church attendance should in no way be minimized, we must recognize that this activity in itself is not enough to fulfill the need for contact and interaction between members. Associating together for an hour or two at the Sabbath worship does not represent all the benefits and joys the Christian experiences in fellowship. The writer of Hebrews admonishes us to "hold fast the confession of our hope without wavering, for He who promised is faithful. And let us consider one another in order to stir up love and good works, not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching" (Heb. 10:23-25).</p>
+      
+      <p class="mb-4">Christian fellowship and visitation encompass vital aspects of the ministry of the church and should be considered, not a duty to be performed by any single individual, but a lifestyle to be enjoyed by the entire church community. In some ways smaller church groups may naturally find fellowship more inclusive of all members, while larger churches may need to provide small group networks that will allow for inclusion of members that may otherwise be overlooked. Five primary concerns on which the church and the pastor need to focus their visitation follow:</p>
+      
+      <p class="mb-4">(1) Christian fellowship</p>
+      <p class="mb-4">(2) spiritual needs and encouragement</p>
+      <p class="mb-4">(3) shut-ins</p>
+      <p class="mb-4">(4) hospital visitation</p>
+      <p class="mb-4">(5) bereavement and end-of-life support</p>
+      
+      <p class="mb-4"><strong>Christian fellowship.</strong> — A wide variety of activities, both social and spiritual, gather under the heading of Christian fellowship. And these serve the purpose of not only church member fellowship but also outreach to the greater community. Included in this context are group activities, such as Bible study, prayer, recreation, hobbies, music, community service, garden clubs, and a host of other activities limited only by the imagination. The church thus serves as the connecting point for such fellowship, not only strengthening its members but reaching out to the community as well.</p>
+      
+      <p class="mb-4"><strong>Spiritual needs and encouragement.</strong> — Elders assigned to assist the pastor in member support should maintain vigilant watch over the spiritual needs of the members, visiting and encouraging those who are discouraged or lax in their Christian experience and commitment to Christ. At times they may recommend that the pastor make a visit.</p>
+      
+      <p class="mb-4"><strong>Shut-ins.</strong> — Members who are unable to attend services and participate in the fellowship activities of the church can easily be overlooked. Careful planning should be made to provide regular contact with them, providing information, encouragement, and materials of interest from the church. They should receive regular copies of the church bulletin and newsletter, and an audio or video recording of the worship service (or, where possible, live electronic media presentations of the worship service). The quarterly Communion service is to be provided for them by the church.</p>
+      
+      <p class="mb-4"><strong>Hospital visitation.</strong> — When members are ill, particularly during hospitalization, visitation by the pastor and elders becomes highly important. When requested, the pastor and elders are to provide an anointing service, as described further in chapter 34. Often the pastor does not know when members are in the hospital. Thus a good network should be established to provide this information. Hospital stays tend to be short, so quick action is needed to make contact before patients are dismissed.</p>
+      
+      <p class="mb-4">Hospital visits should be short, particularly when the patient is experiencing pain, recovering from surgery, or under the influence of heavy medication. Speak a few well-chosen words of support and encouragement followed by the reading of scripture and prayer. While hospital stays usually are stressful times for patients and their families, the birth of a child is generally a joyful occasion at which the pastor can lead the family in giving thanks for new life.</p>
+      
+      <p class="mb-4"><strong>Bereavement and end-of-life support.</strong> — Short of the second coming of Christ, all will face the issue of life ending on this earth. For some death will come in an instant, but for most there will be a time of decline and recognition that life is ebbing away. During this time, especially, the support and assurance of the church family is needed. These are times of sorrow and loss that should be recognized and accepted, but in Christian fellowship we do not "sorrow as others who have no hope" (1 Thess. 4:13). The assurance of salvation and restoration found in Scripture, and words of comfort from the pastor and church members, are the last, best gifts of love that can be given. At the time of the loss of a loved one, pastoral and elder support and visitation becomes crucial to the surviving family. Customs for the handling of funeral arrangements vary widely, and the pastor must know how, where, and when to serve the needs of the bereaved. Generally speaking, a home visit is appropriate, bringing comfort and support to the family. People handle their grief in different ways. Sensitivity to this reality helps in encouraging them to put their hope and trust in a loving heavenly Father. Chapter 35 deals further with the funeral service.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">SUGGESTED SCRIPTURE READINGS FOR VISITATION</h4>
+      
+      <p class="mb-4"><strong>General Scripture texts:</strong></p>
+      <p class="mb-4">Psalms 23; 46; 103; 121</p>
+      <p class="mb-4">Jeremiah 30:17</p>
+      <p class="mb-4">Matthew 11:28-30; 15:30, 31</p>
+      <p class="mb-4">Romans 5:3-5; 8:16-39</p>
+      <p class="mb-4">James 5:13-16</p>
+      <p class="mb-4">3 John 2</p>
+      
+      <p class="mb-4"><strong>Before surgery:</strong></p>
+      <p class="mb-4">Psalms 91; 103:1-5</p>
+      <p class="mb-4">Isaiah 43:1-3; 58:8, 9</p>
+      
+      <p class="mb-4"><strong>In pain:</strong></p>
+      <p class="mb-4">Isaiah 26:3, 4</p>
+      <p class="mb-4">Matthew 11:28, 29</p>
+      <p class="mb-4">John 14:27</p>
+      
+      <p class="mb-4"><strong>Facing death:</strong></p>
+      <p class="mb-4">Psalms 23; 90:1-6, 10</p>
+      <p class="mb-4">Isaiah 56:11</p>
+      <p class="mb-4">John 3:14-16</p>
+      <p class="mb-4">John 14:1-4, 25-27</p>
+      <p class="mb-4">Romans 8:35-39</p>
+      <p class="mb-4">2 Corinthians 5:1-4</p>
+      
+      <p class="mb-4"><strong>On recovery:</strong></p>
+      <p class="mb-4">Psalms 34:4-8; 107:1-9</p>
+      <p class="mb-4">Luke 17:12-18</p>
+      
+      <p class="mb-4"><strong>Birth of child:</strong></p>
+      <p class="mb-4">Matthew 18:1-6</p>
+      <p class="mb-4">Mark 10:13-16</p>
+      <p class="mb-4">Luke 1:46-49</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PASTORAL VISITATION</h4>
+      
+      <p class="mb-4">Many church members perceive regular home visitation as one of the pastor's responsibilities. And indeed such a practice helps to encourage the spiritual life of the members and maintain a firsthand knowledge of the spiritual needs of the church. In some settings, because of the size of the congregation or district, or because of geographic spread, the pastor will need assistance in maintaining this visitation contact with members. And in some large city settings, many members live in high-rise apartments or gated communities where visitation seems more challenging.</p>
+      
+      <p class="mb-4">In such situations a parish plan that organizes members into units under the direction of an elder, assisted by deacons and deaconesses, makes this visitation contact more feasible. The elder leads in planning visitation and group gatherings that build the spiritual strength of the members. From time to time the pastor may be invited to meet with the group and share fellowship with them.</p>
+    `
+  },
+  {
+    id: '24',
+    title: 'Counseling',
+    category: 'Pastoral Care',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 24</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Counseling</h2>
+      </div>
+
+      <p class="mb-4">Although pastors offer primarily spiritual resources to those seeking counsel, guidance in other areas of interest may be requested as well. Many see pastors as persons of experience and wisdom in areas that may include family concerns, decisions in planning for the future, financial matters, social issues, and emotional stresses, to name a few. While experience and spiritual guidance are of great importance in these matters, individuals must plainly recognize that professional counseling is not the calling of the pastor. Making a clear distinction between pastoral concern and the need for referral to a professional counselor becomes crucial as pastors interact with troubled parishioners.</p>
+      
+      <p class="mb-4">When pastors offer counseling beyond their training and expertise, they endanger the person being counseled, and also risk encountering legal problems. Mental illness and psychotic behavior, for example, are not in the purview of pastoral counseling. Few pastors are adequately trained to work in these areas, and such matters should be referred to mental health professionals.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CRISIS COUNSELING</h4>
+      
+      <p class="mb-4">Generally, counseling for pastors should be limited to short-term or crisis counseling. Providing support and encouragement for members facing difficult decisions or stress in their lives is part of ministry.</p>
+      
+      <p class="mb-4"><strong>Listen.</strong> — Listening shows the counselee that someone cares. Talking through the problems with someone who has another perspective helps clarify the issues for the counselee. By putting their feelings into words, people move from emotional responses to a more rational level of thinking, where they begin finding answers for themselves. Careful listening also clarifies the problem for the counselor. In relational problems, however, avoid assuming that what only one person states gives a complete and accurate understanding of the issue.</p>
+      
+      <p class="mb-4"><strong>Concentrate on solutions.</strong> — Spend counseling time on seeking solutions, not rehearsing problems. Some people tend to go over and over a problem, wanting only sympathy and resisting help toward solutions. Even so, do not try to solve people's problems. Clarify and define the real problem and help them work through to a solution.</p>
+      
+      <p class="mb-4"><strong>Guide in choosing a plan.</strong> — Counselees find it easier to concentrate on solutions if they can see various options. Help them decide which option seems best, and form a plan for putting it into operation. The pastor's task should encourage them to implement their own decision. If counselees don't follow through on their plan, it may be wise to question spending additional time in counseling with them.</p>
+      
+      <p class="mb-4"><strong>Pray with counselees.</strong> — Prayer focuses the attention of the counselee on the surest, most lasting source of help by the commitment of one's life to service and the will of God.</p>
+      
+      <p class="mb-4"><strong>Practice confidentiality.</strong> — Confidentiality is both an ethical and legal requirement. Yet in some settings there is a legal requirement to report certain activities that a counselee may reveal in a counseling session, such as child or elder abuse, etc. Also, counselors may be held liable for failing to warn of a threat against someone's life.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">COUNSELING ASSOCIATES</h4>
+      
+      <p class="mb-4"><strong>Professionals.</strong> — In some congregations there may be members who are professionally trained in some area of counseling. The pastor may tap this expertise and use such persons not only for referring counselees but also for training members willing to share the counseling needs of the church.</p>
+      
+      <p class="mb-4"><strong>Congregation.</strong> — Church members have a Christian responsibility to assist other members. "Bear one another's burdens, and so fulfill the law of Christ" (Gal. 6:2). Some in the congregation may have already faced and resolved the problems that counselees are experiencing. Support groups are helpful when people with similar needs not only share and seek solutions to their problems but pray for and support one another. In addition, a church resource center can provide books, pamphlets, and video presentations with practical information and guidance on how to cope with typical problems.</p>
+    `
+  },
+  {
+    id: '25',
+    title: 'Church Community',
+    category: 'Community',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 25</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Community</h2>
+      </div>
+
+      <p class="mb-4">Church communities result from individuals responding to the call of God to be His people and build His kingdom. And while corporate worship may be the most visible and most attended group activity of the church, it certainly is not the only activity. The diversity of interests and spiritual gifts in the church is no accident. Thus various groups will naturally gather around different activities and groups in the church. In order to serve this need, ongoing and conscious effort must be made to create a network of activities and groups in which members will be served, and those outside the church community will also be attracted.</p>
+      
+      <p class="mb-4">Christian love produces unity. "By this all will know that you are My disciples, if you have love for one another" (John 13:35). "When there is harmonious action among the individual members of the church, when there is love and confidence manifested by brother to brother, there will be proportionate force and power in our work for the salvation of men" (Testimonies to Ministers, p. 188).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">COMMUNICATING WITH MEMBERS</h4>
+      
+      <p class="mb-4">Fellowship grows when people hold much in common. Some people attend church not so much for doctrinal reasons as for a Christian support system. Alternatively, some people stop attending church not because they disbelieve the doctrines but because they do not find the support and fellowship they seek. Good communication between members facilitates better understanding and commonality between them, increasing fellowship.</p>
+      
+      <p class="mb-4"><strong>Church bulletin.</strong> — Printed church bulletins provide the outline of the Sabbath programs, announcements and information regarding the program of the church during the week, and such standard information as a listing of staff and church office contact information and a summary statement of beliefs. Bulletins also often provide a tear-off section for the communication of information and needs to the pastor.</p>
+      
+      <p class="mb-4">A section or page of the bulletin may include items that will interest children, providing a puzzle to solve, a picture to color, or a sermon outline that encourages the taking of notes.</p>
+      
+      <p class="mb-4"><strong>Telephone.</strong> — Automated telephone messaging systems provide many delivery options. When rapid conveying of a prerecorded message becomes necessary, electronic delivery is quick and efficient. However, members organized in a telephone tree system provide a more human touch. Mobile phones are also very useful tools.</p>
+      
+      <p class="mb-4"><strong>Church newsletter.</strong> — Newsletters help members keep in touch with the church program, plans, and activities and also provide a method of sharing items that may be of a more secular order than would be fitting for Sabbath morning presentation. Newsletters may be distributed by postal service or by e-mail—the latter being much less costly and not as time-consuming. However, virtually all members have a postal mailing address, but not all have e-mail service available. In order to assure that all members are receiving church communications, some combination of the two may have to be arranged. Sending a letter by regular mail will also assist in maintaining current addresses of members. In addition, a church Web site can be an efficient time-saving means of communication.</p>
+      
+      <p class="mb-4">Pastor's greeting/message. This may be a spiritual challenge, an encouragement, a report of church activities, or an inspiring story. But it should be brief and engaging.</p>
+      
+      <p class="mb-4">Schedule. Coming events for the month not only serve as a reminder of the schedule of church activities but also spark interest in attending. Given that some may post the calendar at home so as not to miss these activities, it should be prepared in an attractive format. A Sabbath worship sermon title prepares worshippers for the theme of the day and may also help to spark interest in attending and inviting visitors.</p>
+      
+      <p class="mb-4">News. News of both church and personal events are of interest to church members, including such matters as weddings, births, baby dedications, baptisms, graduations, anniversaries, illnesses, and deaths. A listing of upcoming birthdays and wedding anniversaries encourages members to send personal greetings or plan celebrations together. Accuracy of news items should be confirmed before publication, and in the case of illnesses, those with the illness should be consulted before publication.</p>
+      
+      <p class="mb-4">Children and youth items. Information regarding the accomplishments of children and youth, particularly school-related, attract the interest of a wide audience and keep the church family appraised of the development of its children. When possible, pictures accompanying reported events and information greatly enliven the story. This also communicates to the younger ones the love and caring interest of their church family. A children's page with Bible quizzes, puzzles, and games will broaden interest in the newsletter.</p>
+      
+      <p class="mb-4"><strong>Church directory.</strong> — Church directories effectively develop and encourage fellowship in the church community, and this applies particularly to a pictorial directory. Having the names of fellow members enables members to become better acquainted with each other. A good time to publish the church directory is following church elections and during the planning for the upcoming church year; an outline of the year's program can be included. Features might include:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>the mission statement of the church</li>
+        <li>a brief historical sketch of the church</li>
+        <li>a message from the pastor</li>
+        <li>a schedule of Sabbath services, including an offering schedule</li>
+        <li>special events, seminars, and programs</li>
+        <li>names of the church officers</li>
+        <li>regularly scheduled committees and boards</li>
+        <li>birthdays of members</li>
+        <li>the pastor's regular schedule</li>
+        <li>frequently used e-mail addresses and telephone numbers</li>
+        <li>names of conference officers and departmental directors</li>
+        <li>addresses and phone numbers of local businesses, services, or institutions operated by church members</li>
+      </ul>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">GROUP MINISTRIES</h4>
+      
+      <p class="mb-4">"The formation of small companies as a basis of Christian effort is a plan that has been presented before me by One who cannot err. If there is a large number in the church, let the members be formed into small companies, to work not only for the church members but for unbelievers also" (Evangelism, p. 115). Interest in forming such group ministries will vary widely in different locations. Interest and creativity will open opportunities to a host of possibilities for church activity and fellowship. The following list includes a few of the most obvious categories of small groups.</p>
+      
+      <p class="mb-4"><strong>Prayer groups.</strong> — The traditional midweek evening prayer meeting of the church, known as the longest-standing tradition of group ministry, remains an ideal for many. However, the standard scheduling and format may not best fit the interest of many who would like to be involved in a prayer group but find its timing unworkable. Some may prefer a prayer breakfast before going to work; others may favor a lunch prayer group. Encouraging various times and interest groups for prayer ministry will greatly enhance participation.</p>
+      
+      <p class="mb-4"><strong>Bible study groups.</strong> — The longest-standing Bible study group in Adventist circles is the Sabbath school class lesson study. Properly extended beyond the Sabbath morning class time, this fellowship functions as an ideal small group for tracking the needs of its members. As with prayer groups, others may also attend Bible study groups at other locations and at other times of the day and week. Some groups may develop around shared issues of interest, some through friendship bonds, and some around schedule and locality convenience.</p>
+      
+      <p class="mb-4"><strong>Seminar and support groups.</strong> — People tend to show interest in church attendance following life-changing events, such as marriage, the birth of a child, a change of residence, divorce, the death of a loved one, and other such points of transition. A regular program of seminars designed to support and assist those with such special interests will likely attract participants to attend family life seminars, parenting classes, coping seminars, and a wide range of programs covering physical, mental, and spiritual needs. The cornerstone of society has always been the family, both the nuclear family and the extended family of the church and the community. God created family in the Garden of Eden and charged it with the responsibility to "be fruitful and multiply; fill the earth and subdue it" (Gen. 1:28). Enriching marriage and family not only fulfills this charge but in turn strengthens the church.</p>
+      
+      <p class="mb-4"><strong>Community outreach and service.</strong> — Through a survey of needs and interests in the community, small groups can be formed to provide fellowship and instruction addressing those expressed needs. Not all members are gifted in or enjoy the same kind of ministry. Those who share similar abilities and interests can multiply their effectiveness in joint efforts. The Dorcas Society, now generally called Community Services, is one of the longest-standing groups in this category. The options for service are virtually limitless, such as play groups that bring together families with small children for recreation and fellowship, yard work, auto repair, visiting seniors or those whose health is fragile, to name only a few possibilities.</p>
+      
+      <p class="mb-4"><strong>Social gatherings.</strong> — The power of fellowship may be found in a shared meal, or a shared concert, or a picnic in the park. Social gatherings do not need to have an ulterior motive to be enjoyed. We are created social beings, and celebrating our God-given social nature is reason enough to fellowship together. School, church, and community programs all provide ideal occasions for social gatherings.</p>
+      
+      <p class="mb-4"><strong>Recreation and hobbies.</strong> — Some like to run. Some like to walk. Some like to swim. Some enjoy sports activities. Some enjoy stamp collecting, or gardening, or sewing, or bird watching—the list is limitless. But most enjoy engaging in these activities with others. Fellowship in the church should be broad enough to unite people in such activities and thus enhance the joy in Christian fellowship.</p>
+      
+      <p class="mb-4"><strong>A welcoming church.</strong> — When visitors come to the church, they are looking for something, and church attendance becomes an opportunity as well as the responsibility of the church to help them find it. Church services should be planned with the intent and assumption that visitors will be present. While greeting them at the entrance to the church is good and proper, hospitality can extend well beyond the door. Assistance in parking may be needed in large churches. During inclement weather, special care may be given to keep people warm and dry as they go from their vehicles to the church. Children should be directed and taken to the proper Sabbath school division, and the names of guests should be recorded in a guest registry. While genuine warmth and fellowship cannot be organized and manufactured, having a plan that allows these qualities to flow easily and comfortably will set visitors at ease and encourage their participation in the fellowship of the church.</p>
+      
+      <p class="mb-4"><strong>Fellowship dinners.</strong> — Sabbath fellowship dinners provide hospitality to guests and fellowship for church members. Not all members will wish to attend a fellowship dinner every week, but by dividing church membership into teams on a rotating schedule, the responsibility becomes a joy and privilege.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PROGRAM PROMOTION</h4>
+      
+      <p class="mb-4">To take advantage of the vast array of activities and programs available, it is necessary to make intentional choices that fit the mission of the church. Also, planning and timing the various activities in such a way that they do not undermine one another's success or weary the members with too much promotion should be considered. Yet without promotion, few will become aware of the activities, and a lack of participation will result. That which gets promoted gets supported. The issue is not whether to promote, but how to promote.</p>
+      
+      <p class="mb-4"><strong>Program planning.</strong> — In making plans for the church year, seek the counsel of the church board and prepare a calendar that includes the major programs planned. Then through the various communications media available to the church, keep the membership appraised of upcoming events, with adequate time to prepare. Details are easier to understand when written, and are also available to be reread. Make information available through use of the church bulletin and newsletter, or perhaps with a visible goal device in the church.</p>
+      
+      <p class="mb-4"><strong>Promotion in the worship service.</strong> — Given that the Sabbath worship service is generally the most heavily attended gathering of the church, individuals promoting their programs may take time from or use the entire worship service for promotion. Even while avoiding promotional excess, it should be remembered that church work develops as the natural outgrowth of worship. Promotion should never crowd out spirituality, but involvement in such church activities as Vacation Bible School, Pathfinder Sabbath, or religious liberty could very well be presented so as to give spiritual benefit to all members.</p>
+    `
+  },
+  {
+    id: '26',
+    title: 'Church Finance',
+    category: 'Administration',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 26</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Finance</h2>
+      </div>
+
+      <p class="mb-4">Christian stewardship as a biblical principle teaches that life is a divinely appointed opportunity for learning to be faithful stewards in temporal matters, thus showing readiness for higher stewardship in eternal matters. As Jesus taught in the parable of the talents, the returning master says, "Well done, good and faithful servant; you were faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord" (Matt. 25:21). Tithe and offerings are not church fund-raising but a voluntary recognition of God's ownership of all and His blessings on His people.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">MOTIVATION FOR GIVING</h4>
+      
+      <p class="mb-4"><strong>Gospel motivation.</strong> — People give as they are motivated by the grace of God and the gift of salvation. The expenses of church operation should be met by those whose hearts have been changed, not by human persuasion, but by the gospel.</p>
+      
+      <p class="mb-4"><strong>An act of worship.</strong> — People give as an act of worship. Any other motivation, such as fear, guilt, or attempts to buy favor, perverts and distorts the will of God.</p>
+      
+      <p class="mb-4"><strong>Mission support.</strong> — People give if they understand and believe in the mission of the church, and they see that their support advances both local and world church mission. "Systematic benevolence should not be made systematic compulsion. It is freewill offerings that are acceptable to God" (Testimonies, vol. 3, p. 396).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">GIVING STYLES</h4>
+      
+      <p class="mb-4"><strong>Systematic giving.</strong> — As in personal finance, the most effective way of handling funds is to have a plan and a budget. By careful planning in advance, the work of the church at home and around the world functions efficiently and effectively. With such a plan communicated to the church membership, people are able to make wise giving choices. Systematic giving through approved offering systems is the ideal way of supporting church ministries. "Making urgent calls is not the best plan of raising means" (Testimonies, vol. 3, p. 511).</p>
+      
+      <p class="mb-4"><strong>Deferred giving.</strong> — Long-term church stewardship plans should also include information regarding wills and trusts, thus encouraging members to leave a gift to the work of the church in their will or trust.</p>
+      
+      <p class="mb-4"><strong>Project giving.</strong> — From time to time special needs and projects will arise, and appeals will be made to the church for support. While an occasional need is often a valid opportunity for giving, frequent appeals will undermine the broader mission of the church and will direct funds in an unbalanced manner to the projects that have the most articulate presenter or the strongest emotional attractiveness.</p>
+      
+      <p class="mb-4"><strong>Impulse giving.</strong> — Giving on impulse may, on occasion, be done, but like impulse spending of one's personal funds, it may lead to depletion of funds that could have been put to wiser use.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CARE IN HANDLING CHURCH FUNDS</h4>
+      
+      <p class="mb-4">Pastors should be seen as models of careful and faithful stewardship who promote sound financial management in the church while clearly recognizing that funds given as an act of worship to God should be managed in a way He would approve. Members of the church who have financial management and accounting skills should be enlisted to assist in the handling of church funds.</p>
+      
+      <p class="mb-4"><strong>Internal control.</strong> — A system of internal control reduces the risk of assets being stolen, removes unnecessary temptation, improves the accuracy of financial records, and protects treasurers and pastors from false accusations. Offerings should be counted by two or more unrelated people and recorded separately by each. All funds are to be processed through the treasurer's books, and no one should borrow from the offering. Expenses incurred in the approved budget are to be reimbursed by the treasurer upon receiving receipts, stating which fund should be charged and to whom it should be paid. Expenses not included in the budget must be approved by the treasurer or church board, depending on set preestablished amounts.</p>
+      
+      <p class="mb-4"><strong>Church treasurer.</strong> — The treasurer's direct line of responsibility is to the church board; the treasurer looks to the board for approval of regular and open financial statements. Some churches may also work with a finance committee giving guidance to the treasurer, but the finance committee is also subject to the church board. The pastor also will work closely with the treasurer, but, like the finance committee, is subject to the church board in financial matters of the church. In addition to reports to the board, the treasurer also carries the responsibility for reporting to the church in business session. The board may vote certain funds to be used at the pastor's discretion, but pastors are not free to use church funds outside these parameters.</p>
+      
+      <p class="mb-4"><strong>Budget preparation.</strong> — The annual church planning program should precede the preparation of the annual budget. This protects the budget from being based on "circular progress"—using last year's program and budget to determine next year's program and budget. The budget should be voted at a business meeting at which all members have the opportunity to express their views and accept ownership of the plan. A sample church budget is given in the Church Manual.</p>
+      
+      <p class="mb-4"><strong>Church indebtedness.</strong> — Church policy guidelines regarding the incurring of debt are given in the Church Manual. Carefully following these guidelines will help prevent long-term church indebtedness. Implementations of these recommendations promote healthy financial conditions conducive to the ongoing mission of the church in the world.</p>
+      
+      <p class="mb-4"><strong>Commitment.</strong> — The following Statement on Personal Commitment to Financial Integrity and Transparency, voted by the General Conference Annual Council in 2002, should be read and signed by all individuals in church leadership positions.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">STATEMENT ON PERSONAL COMMITMENT TO FINANCIAL INTEGRITY AND TRANSPARENCY</h4>
+      
+      <p class="mb-4">The role of leadership is critical for developing the confidence of church members in their church and in strengthening their relationship with God. It is the responsibility of church leadership to be transparent and credible in all its dealings.</p>
+      
+      <p class="mb-4">The apostle Paul provides a biblical example of this type of leadership: "And we are sending along with him the brother who is praised by all the churches for his service to the gospel. What is more, he was chosen by the churches to accompany us as we carry the offering, which we administer in order to honor the Lord himself and to show our eagerness to help. We want to avoid any criticism of the way we administer this liberal gift. For we are taking pains to do what is right, not only in the eyes of the Lord but also in the eyes of men" (2 Cor. 8:18-21, NIV).</p>
+      
+      <p class="mb-4">Ellen G. White states, in the context of dealing with tithe and the financial side of church leadership, that "those in responsible places are to act in such a way that the people will have firm confidence in them. These men should not be afraid to open to the light of day everything in the management of the work" (Manuscript Releases, vol. 13, p. 198).</p>
+      
+      <p class="mb-4">Church leadership considers itself accountable to God, to His church, and to the church's published policies in the use of its financial resources. Thus, the church is committed to integrity and an open leadership that will encourage confidence in God and His church. It is the responsibility of Seventh-day Adventist Church leadership to provide information regarding the financial dealings of the church organization in a way that is clear and understandable. Details regarding an individual and his/her finances are to be respected and kept confidential. All other dealings and appropriate financial information of the church organizations are to be reported regularly and completely to the respective organizational constituencies.</p>
+      
+      <p class="mb-4">Recognizing that the church has entrusted me with a leadership position, accepting my role as a model to other members, and recognizing my accountability to God and to the church, I affirm the Statement on Personal Commitment to Financial Integrity and Transparency, and will keep this document as a reminder of my personal commitment.</p>
+      
+      <p class="mb-4">Signature:</p>
+      <p class="mb-4">Organization:</p>
+      <p class="mb-4">Date:</p>
+    `
+  },
+  {
+    id: '27',
+    title: 'Church Facilities',
+    category: 'Administration',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 27</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Facilities</h2>
+      </div>
+
+      <p class="mb-4">Technically speaking, a building can be called just a physical structure. Yet with the passage of time a dedicated church building takes on more meaning than merely the construction materials. The investment of personal finance and effort, the experiences of fellowship and worship, the child dedications, baptisms, graduations, marriages, funerals, and spiritual experience of the congregation—all contribute to a love and respect for the building far beyond its mere structure. As the physical home of the congregation, the church building should be treated with care and respect.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">EXISTING FACILITIES</h4>
+      
+      <p class="mb-4">Deacons direct the care of the church building. While custodial and maintenance personnel may be employed to care for facility needs, the deacons must assume responsibility to oversee this work. Poorly maintained facilities are unattractive to visitors and the surrounding community and negatively impact the outside perception of the church. Individuals may easily become so accustomed to the appearance of the building that care and maintenance needs are overlooked. Churches often are unattractive, not so much because they are old or poorly built, but because of poor maintenance.</p>
+      
+      <p class="mb-4">Neatness, cleanliness, and tastefulness in decorating must be carefully guarded. Deacons and other church leaders should periodically view the building as though they were visitors experiencing their first impression of the facilities. Using a checklist in this review may help in the evaluation. Items to be considered include the yard, sign, exterior finish, foyer, interior decorating, restrooms, fire protection, and others. Church facilities should be insured in accordance with conference policies.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">RENTING FACILITIES</h4>
+      
+      <p class="mb-4">From time to time Adventist congregations find it necessary to rent facilities. Given that Adventist use of the church building falls primarily on Saturday, the opportunity exists for shared use with those who use church facilities primarily on Sunday, renting either from or to such groups. While renting facilities from other churches may be a useful stopgap for Adventist congregations in transition, for the long term members usually see this as an unsatisfactory arrangement. Over time the desire and convenience of owning one's own church building usually brings the congregation to the decision to obtain their own property.</p>
+      
+      <p class="mb-4">However, if another church group in the community has lost their place of worship, allowing or even inviting them to rent the church for a period of time may be the Christian thing to do. In such circumstances every part of the rental agreement should be clearly stated in a legally binding document signed by the renters and by the conference officer in charge of church properties, and approval from the conference should be received. Counsel from the conference attorney should be sought in preparation of these documents. Rental income may be taxable under certain circumstances. Be certain that the church insurer knows about this rental agreement and has insurance policy coverage. Renters also must obtain renter's insurance to cover the possibility of an accident while they are renting the property.</p>
+      
+      <p class="mb-4">Long-term rental of church buildings to other churches or organizations should be approached cautiously. The practices and reputation of some groups may adversely affect both the comfort level of the congregation and the perceptions of the community. Such rentals may lead to misunderstandings, cause extra wear on buildings, and increase maintenance and utility costs. Congregations that rent their church in order to raise additional income are frequently disappointed with the results.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">NEW FACILITIES</h4>
+      
+      <p class="mb-4">From time to time churches need to move to a new location for various reasons. Churches in this situation should consult with their local conference leadership. They may have experienced growth that necessitates the development of larger facilities, or they may be planting a new church. They may be seeking to serve a given target audience better, or perhaps they have experienced the loss of existing property. This transition may be accomplished either by building a new facility or by the purchase of an existing one. Whichever option they choose, the issues addressed in the decision are much the same.</p>
+      
+      <p class="mb-4"><strong>Centrality and accessibility.</strong> — A study of demographics will assess whether the land is centrally located among the people the church plans to win and serve, focusing more on the people to be won than on the present members being served. Issues to be considered include the growth patterns and stability of the neighborhood and the availability of public transportation and parking in the area. The right location might make church facilities usable on weekdays as a daycare center or medical clinic, or a place for seminars, counseling, or other programs.</p>
+      
+      <p class="mb-4"><strong>Visibility.</strong> — An attractive building, visible from a well-traveled thoroughfare, comprises a perpetual and positive advertisement for the church and what it stands for.</p>
+      
+      <p class="mb-4"><strong>Affordability.</strong> — While working within the range of what the congregation can afford is important, allowing costs to outweigh all other considerations incorporates a shortsighted method of planning. Churches built in poor locations because land was donated or purchased cheaply may ultimately be just as expensive as one built on better property.</p>
+      
+      <p class="mb-4"><strong>Size.</strong> — Building too small leaves no room for expansion; building too large becomes expensive to maintain. The long-term plans of the congregation must be taken into consideration. The potential for other facilities on the site should also be considered, such as a school, Community Services center, and recreational facilities.</p>
+      
+      <p class="mb-4"><strong>Restrictions.</strong> — Zoning ordinances, covenants, and building restrictions must be carefully researched and recorded. In Adventist policy church properties must be held in the name of the legal association set up by the conference for this purpose. The transfer of property should be done with the assistance of an attorney or other appropriate professional or entity as recognized by local law and licensed in the jurisdiction of the property.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DESIGN</h4>
+      
+      <p class="mb-4"><strong>Attractive.</strong> — The balance between attractiveness and extravagance in design must be carefully measured. "Vain pride, which is exhibited in gaudy trappings and needless ornaments, is not pleasing to God. But He who created for man a beautiful world, and planted a lovely garden in Eden with every variety of trees for fruit and beauty, and who decorated the earth with most lovely flowers of every description and hue, has given tangible proofs that He is pleased with the beautiful" (Testimonies, vol. 2, p. 258).</p>
+      
+      <p class="mb-4"><strong>Functional.</strong> — In addition to functionality for worship, consideration should be made as to other services the building will provide. Ample provision ought to be made for meeting the social and outreach needs of the church, as well as the needs of children and youth. A good architect will assist the church in avoiding later disappointment by designing a building considered both beautiful and functional. Care should also be taken to address the needs of worshippers with disabilities.</p>
+      
+      <p class="mb-4"><strong>Flexible.</strong> — The traditional style of immovable pews and sloping floors makes using the sanctuary for any kind of activity other than a lecture- or concert-style gathering difficult. Permanent choir loft pews inhibit use of that space for other purposes as well. A small audience in a large room dampens enthusiasm and makes the meeting seem like a failure. When the room size matches audience size, the spirit of the meeting becomes greatly enhanced. The ideal sanctuary has portions that can be opened or closed depending on the size of the audience. Smaller rooms for smaller groups double as Sabbath school rooms.</p>
+      
+      <p class="mb-4">Sound amplification should be flexible. Music and preaching tend to compete with each other in their sound needs. Acoustics should be live enough so that music is bright and people will sing well, yet softened enough so that speaking does not create an unpleasant echo. Provision should be made for an attractive video projection system without the need for putting up and taking down projection equipment.</p>
+      
+      <p class="mb-4"><strong>Designed for worship and fellowship.</strong> — Church sanctuaries have often been designed as long and narrow rectangular-shaped lecture halls, thus separating the worshippers from each other and from their worship leaders. Part of worship comprises fellowship, people getting together with one another and with God. Ideally, sanctuaries should be shaped so that worshippers are close to one another and close to their worship leaders. Usually located in the center of the platform, the pulpit in Adventist churches emphasizes the centrality of the preaching of the Word in worship.</p>
+    `
+  },
+  {
+    id: '28',
+    title: 'Church Discipline',
+    category: 'Discipline',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 28</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Discipline</h2>
+      </div>
+
+      <p class="mb-4">Pastors and congregations have responsibility for discipline in the church. God calls them "watchmen" as in His charge to Ezekiel: "I have made you a watchman for the house of Israel; therefore you shall hear a word from My mouth and warn them for Me. When I say to the wicked, 'O wicked man, you shall surely die!' and you do not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood I will require at your hand. Nevertheless if you warn the wicked to turn from his way, and he does not turn from his way, he shall die in his iniquity; but you have delivered your soul" (Eze. 33:7-9).</p>
+      
+      <p class="mb-4">Church discipline requires a delicate balance between standing for principle and extending forgiving, loving kindness. "We must guard against undue severity toward the wrongdoer, but we must also be careful not to lose sight of the exceeding sinfulness of sin. There is need of showing Christlike patience and love for the erring one, but there is also danger of showing so great toleration for his error that he will look upon himself as undeserving of reproof, and will reject it as uncalled for and unjust" (The Acts of the Apostles, pp. 503, 504).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">IMPORTANCE OF DISCIPLINE</h4>
+      
+      <p class="mb-4">The church in a permissive society must recognize that standards unenforced are standards abandoned. In church discipline two extremes are often practiced: neglect on the part of some and harshness and severity on the part of others. But neither of these extremes consists of an excuse for failing to exercise discipline in the church. Discipline is essential for preserving the integrity of the church.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PURPOSE OF DISCIPLINE</h4>
+      
+      <p class="mb-4">Discipline should be considered, not an act of punishment, but an attempt to restore people to discipleship. Discipline functions as a safeguard in the church while preserving the purity of doctrine and behavior in its members.</p>
+      
+      <p class="mb-4"><strong>Discipline honors Christ.</strong> — "If a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted. Bear one another's burdens, and so fulfill the law of Christ" (Gal. 6:1, 2).</p>
+      
+      <p class="mb-4"><strong>Discipline restores sinners.</strong> — The Good Shepherd gave first priority to the one sheep that was missing. He went after it, not to shame it nor to punish it, but to bring it back to the fold. The act of discipline ought to be a way back for one who has wandered.</p>
+      
+      <p class="mb-4"><strong>Discipline shows care.</strong> — Love precedes chastening. God says, "As many as I love, I rebuke and chasten" (Rev. 3:19).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ADMINISTERING DISCIPLINE</h4>
+      
+      <p class="mb-4">The Church Manual deals extensively with church discipline, providing definitions, causes, and procedures to be followed. Without repeating this information in detail, the following guidelines provide counsel in addressing the process of discipline in the church.</p>
+      
+      <p class="mb-4"><strong>Follow the Church Manual.</strong> — The Church Manual represents both the Adventist understanding of the biblical principles of discipline and its wisdom, developed through practice and discussion. To ignore the manual means to go contrary to the official position of the world church. Use the manual as both a guide and protection for those who must deal with discipline issues. Failure to follow these procedures can, in some instances, be subjected to legal liability.</p>
+      
+      <p class="mb-4"><strong>Emphasize forgiveness.</strong> — People being disciplined may see this process as rejection and punishment rather than an attempt at restoration. They may find it difficult to believe that God forgives them when church members apparently do not. Thus, any act of discipline must be accompanied by an emphasis on forgiveness. "If your brother sins against you, rebuke him; and if he repents, forgive him. And if he sins against you seven times in a day, and seven times in a day returns to you, saying, 'I repent,' you shall forgive him" (Luke 17:3, 4). "If your brethren have erred, you must forgive them. You should not say, as some have said who ought to know better, 'I do not think they feel humble enough. I do not think they feel their confession.' What right have you to judge them, as if you could read the heart?" (Ellen G. White, Manuscript Releases, vol. 15, p. 184).</p>
+      
+      <p class="mb-4"><strong>Discipline biblically.</strong> — The words of Jesus recorded in Matthew 18:15-17 outline the procedure to be followed in dealing with sin in the church. Go to the person and address the issue directly. If this does not resolve the matter, go with one or two witnesses. If the problem is still not resolved, take the matter to the church. If the person will not hear the church, consider them as outside the church. "No church officer should advise, no committee should recommend, nor should any church vote, that the name of a wrongdoer shall be removed from the church books, until the instruction given by Christ has been faithfully followed" (Testimonies, vol. 7, p. 262). Under certain circumstances the risk of physical misconduct exists; at these times it may be inadvisable for the aggrieved party to go alone seeking such resolution.</p>
+      
+      <p class="mb-4"><strong>Discipline promptly.</strong> — Confronting sin promptly may lead to repentance. However, because of the distastefulness of confrontation, the issue may not be addressed until months or even years later. Then when the individual asks for a transfer of membership to another church, the church denies the recommendation on the basis of what happened a long time before. The church, unwilling to act when the sin becomes obvious, has thus placed itself in both a negligent and unforgiving stance. "In dealing with the erring, harsh measures should not be resorted to; milder means will effect far more. After the best means have been perseveringly tried without success, wait patiently and see if God will not move upon the heart of the erring" (Ellen G. White, Manuscript Releases, vol. 15, p. 197).</p>
+      
+      <p class="mb-4"><strong>Discipline voluntarily.</strong> — If discipline seems unavoidable, the offender, if given opportunity, may choose to withdraw voluntarily. Under some circumstances this may save unnecessary public discussion of the issue and embarrassment to the individual. A person volunteering to withdraw may feel less rejection than when forced to do so. It may be, however, that it is necessary for the church to take a stand on widely known and flagrant violations of church standards. This should be done firmly, but as graciously as possible.</p>
+      
+      <p class="mb-4"><strong>Discipline impartially.</strong> — Discipline must not be based on how many friends or how much position an offender has in the church and the community. Those involved in the offender's problem or closely associated with it should be excluded from deciding the case. Only a church business meeting is authorized to make final discipline decisions.</p>
+      
+      <p class="mb-4"><strong>Protect confidentiality.</strong> — In a business meeting members have a right to ask detailed questions. Usually, however, they will allow embarrassing details to remain with a smaller group, such as the church elders or the church board. The pastor should not be alone in knowing the full details of the disciplinary issues. The procedure for handling such matters, outlined in Matthew 18, states that "by the mouth of two or three witnesses every word may be established" (verse 16). Public confession has its place if the offense has been public, but the church must receive this in a spirit of forgiveness and acceptance rather than punishment.</p>
+      
+      <p class="mb-4"><strong>Maintain contact.</strong> — While the goal of Christian discipline includes drawing an erring member back into the community of the church, at times a rebellious heart may reject the kindest of efforts at reconciliation. From time to time caring members should endeavor to maintain contact, and let former members know that they are remembered and missed. This may be particularly important when the wrongdoing has resulted in imprisonment.</p>
+    `
+  },
+  {
+    id: '29',
+    title: 'Church Schools',
+    category: 'Education',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 29</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Schools</h2>
+      </div>
+
+      <p class="mb-4">The church operates a school system to ensure that its children may receive a balanced physical, mental, spiritual, social, and vocational education in harmony with denominational standards and ideals, with God as the source of all moral value and truth. The interest of the church includes the restoration of the image of God in humanity, resulting in the optimum development of the whole person for both this life and the life hereafter. A true knowledge of God, fellowship, and companionship with Him in study and service, and likeness to Him in character development, are the source, the means, and the aim of Adventist education.</p>
+      
+      <p class="mb-4">Schools operated by the church will endeavor to provide for their students an education within the framework of the science of salvation, including command of the fundamentals of the learning process, vocational skills, civic education, and ethical maturity. They will aim to reach the objectives of spiritual dedication, self-realization, social adjustment, economic self-sufficiency, civic responsibility, and world mission and service through high-quality Christ-centered teaching.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">IMPORTANCE OF CHRISTIAN EDUCATION</h4>
+      
+      <p class="mb-4">What the church does about its children is of paramount importance to Christ, for He instructed His disciples, "Let the little children come to Me, and do not forbid them; for of such is the kingdom of heaven" (Matt. 19:14). The apostle Paul admonishes fathers to "bring them up in the training and admonition of the Lord" (Eph. 6:4). "In the highest sense the work of education and the work of redemption are one" (Education, p. 30). For some congregations church school operation will be a major part of the church budget in order to provide this vital service to the children of the church.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PROMOTION OF CHRISTIAN EDUCATION IN THE CHURCH</h4>
+      
+      <p class="mb-4"><strong>Annual Christian education Sabbath.</strong> — Before the beginning of the school year, center an entire worship service on Christian education. Invite teachers from the church school to come before the congregation for a prayer of dedication. Church school children and their parents may also be included in this dedication ceremony. In addition to this annual Sabbath education day, individual students and groups from the school should regularly be featured as part of the worship service.</p>
+      
+      <p class="mb-4"><strong>Support of teachers.</strong> — Pastors and teachers are partners in ministry. Pastors should be involved with the school program, visiting the classroom frequently, teaching Bible classes and joining in school programs and activities. Children of school age are primary interests for baptism. Working with teachers in the conducting of baptismal classes and spiritual emphasis will capitalize on this prime age for commitment of the children's lives to Christ. The pastor's children should be in attendance in the church school as an indication of school support from the pastoral family</p>
+      
+      <p class="mb-4"><strong>Day-care centers.</strong> — Many parents look for a well-qualified, trustworthy place to provide care for their children while they are at work. The church and school might have facilities usable for this purpose. Providing day care may be a feeder both to school attendance as the children become of school age and a feeder for Sabbath school attendance. The resulting friendships and goodwill engendered provide a strong evangelistic influence on the parents as well.</p>
+      
+      <p class="mb-4"><strong>Parallel religious education.</strong> — In settings in which the availability of a church school does not exist, provide a structured program that brings children together before school, after school, or on weekends to get the Bible instruction and spiritual nurture they would receive if a church school were available.</p>
+    `
+  },
+  {
+    id: '30',
+    title: 'Baptism',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 30</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Baptism</h2>
+      </div>
+
+      <p class="mb-4">In His final words to the disciples, Jesus instructs them to go and make disciples of all nations, with baptism serving as the symbol of joining the kingdom of God. This sacred rite of initiation involves teaching (Matt. 28:20), repentance (Acts 2:38), belief (Acts 8:12), a new life in Christ (Rom. 6:4), and fellowship with His people (Acts 2:46, 47). As such, this event becomes major in both the life of the individual and the church and should be given due recognition worthy of the significance it represents.</p>
+      
+      <p class="mb-4">Two commitments are experienced at the rite of baptism: the candidates commit themselves to Christ and His church, and the congregation commits to loving, befriending, and enfolding the candidates into the church. When conducted as part of a Sabbath worship service, baptism should be given major importance so that the candidates fully understand the act's meaning. When a baptism is conducted as a separate service, a short homily on the ordinance's meaning is in order.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">BEFORE BAPTISM</h4>
+      
+      <p class="mb-4"><strong>Schedule.</strong> — Baptism entails an individual choice. The experience of Philip and the Ethiopian treasurer indicates the immediacy of the choice for baptism. "As they went down the road, they came to some water. And the eunuch said, 'See, here is water. What hinders me from being baptized?' Then Philip said, 'If you believe with all your heart, you may.' And he answered and said, 'I believe that Jesus Christ is the Son of God.' So he commanded the chariot to stand still. And both Philip and the eunuch went down into the water, and he baptized him" (Acts 8:36-38).</p>
+      
+      <p class="mb-4">Perhaps not many baptisms occur with this immediacy, given the need for appropriate preparation, not the least of which is an adequate water supply. Yet long delays in arranging for baptism are not indicated in the biblical model. Churches should not only schedule baptisms regularly but should also be prepared to arrange for a baptism on short notice. A regular schedule and plan for baptisms in the church not only opens the way for those seeking this sacred rite but also encourages the church to be seeking people for baptism. Churches should plan for a baptism at least once a quarter, and larger churches could well schedule a baptism once a month or more.</p>
+      
+      <p class="mb-4"><strong>Venue.</strong> — Baptism consists of both an individual and community event. Families and friends of those being baptized generally wish to celebrate the baptism with them. While most baptisms occur in the church baptistry before the congregation, some elect to be baptized in other bodies of water, such as a stream or a lake. Some wish to be baptized alone; others may choose to be part of a mass baptism of hundreds or even thousands.</p>
+      
+      <p class="mb-4"><strong>Facilities preparation.</strong> — In preparation for a baptism, the pastor, deacons, and deaconesses have the responsibility of arranging for the physical needs of the occasion. In a baptistry, water must be drawn and warmed in advance. Particular care should be taken involving electrical equipment near the water. Sound and video equipment, lights, and heaters must be checked and installed in such a way that they cannot be reached by those in the water.</p>
+      
+      <p class="mb-4">Baptismal robes, towels, and facilities for changing are to be provided. While facilities will be quite different for outdoor baptisms, yet the same level of care and support should be provided as far as possible. Those with disabilities may need to be assisted or even carried into the water, perhaps being immersed while sitting in a chair. In extreme medical situations the service may take place in a home or hospital, making use of a bathtub.</p>
+      
+      <p class="mb-4"><strong>Personal preparation.</strong> — The procedures of baptism should be clearly rehearsed with those being baptized. Some are fearful of being in front of the congregation. Some are afraid of being submerged in water. Assurance regarding these issues becomes vitally important to them, and knowing precisely what will take place will help to allay these concerns.</p>
+      
+      <p class="mb-4"><strong>Baptismal attire.</strong> — Where possible, the church should provide appropriate baptismal attire, such as robes. Dark robes are suggested, since white material is more revealing when wet. Hem weights help prevent flotation of the robe when entering the water. Candidates should bring underclothing or a swimsuit to wear beneath the robe. If baptismal robes are not available, candidates should bring a complete change of clothing that may be worn for the baptism.</p>
+      
+      <p class="mb-4"><strong>Authorization to baptize.</strong> — The Church Manual stipulates, "In the absence of an ordained minister, the elder shall request the president of the conference . . . to arrange for the administration of the rite of baptism to those desiring to unite with the church." The determination as to who in addition to the ordained minister may be authorized to perform baptism is governed by the Church Manual and the General Conference Working Policy L 25.</p>
+      
+      <p class="mb-4"><strong>Receiving into membership.</strong> — Voting candidates into membership may be done before or after the baptism. If done before baptism, the vote is taken subject to baptism. Candidates may be asked to step to the front when being voted, and welcomed into membership.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DURING BAPTISM</h4>
+      
+      <p class="mb-4"><strong>Introduction.</strong> — As the candidate enters the baptistry and the person performing the baptism presents the individual to the congregation, family and friends who have been influential in their life may be invited to stand in honor of the occasion. A few words about the candidate's background and how they came to accept Christ are a fitting introduction. When multiple members of a family are to be baptized at the same service, it is appropriate for them all to come into the water together if the baptistry facilities are adequate enough to accommodate them.</p>
+      
+      <p class="mb-4"><strong>Immersing the candidate.</strong> — The person performing the baptism must recognize the importance of maintaining a solid grasp on the one being immersed while at the same time allowing them to grasp firmly the arm of the one performing the baptism. This provides a sense of security particularly for those with some fear of the water. Carefully placing a cloth over the nose and mouth of the one being baptized prevents the discomfort of allowing water to run into the nose and mouth while submerged. Given the natural properties of flotation, the weight of the individual is not of particular concern in either the immersion or restoration to a standing position when accomplished in a slow and gentle motion. Particularly tall individuals may be instructed to bend their knees to assist in the immersion.</p>
+      
+      <p class="mb-4">Recognize the commitment of the one being baptized in a brief statement, such as: "Because of your profession of faith in Christ as your Savior and your desire to live a new life in Him, I now baptize you in the name of the Father, the Son, and the Holy Spirit."</p>
+      
+      <p class="mb-4"><strong>Announcement and invitation.</strong> — The close of the baptism provides an opportune time for an invitation to be given for those who wish to be included in the next baptism and to announce the time of the next scheduled baptism. The baptismal ceremony is then closed with prayer from the baptistry.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">FOLLOWING BAPTISM</h4>
+      
+      <p class="mb-4"><strong>Welcome.</strong> — At the close of the service a designated location should be indicated to the congregation where they may welcome the ones who have been baptized into church fellowship.</p>
+      
+      <p class="mb-4"><strong>Fellowship dinner.</strong> — When possible, the provision of a fellowship dinner honoring those being baptized gives opportunity for further minutes of introduction and family celebration.</p>
+      
+      <p class="mb-4"><strong>Appoint spiritual mentors.</strong> — New members need the support, friendship, and encouragement of established members of the church. Particularly the elders of the church should be assigned this responsibility as spiritual mentors to watch over the newly baptized, but others with the gift of help and encouragement may be included as well.</p>
+    `
+  },
+  {
+    id: '31',
+    title: 'Communion',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 31</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Communion</h2>
+      </div>
+
+      <p class="mb-4">Instituted by Christ at His last supper with the disciples, the Communion service functions as an occasion for remembering the sacrifice of Christ and for founding the community of the church. The solemnity of the occasion and the fellowship it engenders make it an encouragement to and spiritual renewal of the congregation. Conducting a Communion service is one of the most sacred duties of a pastor or elder. "Everything connected with it should suggest as perfect a preparation as possible" (Evangelism, p. 277).</p>
+      
+      <p class="mb-4">Traditions regarding the observation of this sacred service vary from location to location, and although these may not necessarily have a biblical basis or mandate, yet conducting the service in a manner that is comfortable to the participants is wise and proper.</p>
+      
+      <p class="mb-4"><strong>Frequency.</strong> — It is customary in Adventist churches to hold Communion at the worship service once a quarter, usually on the last Sabbath of the closing quarter or on the first Sabbath of the new quarter. However, these are not rigidly set times. Clearly Scripture does not determine the frequency or timing of this service, stating, "As often as you eat this bread and drink this cup, you proclaim the Lord's death till He comes" (1 Cor. 11:26).</p>
+      
+      <p class="mb-4">In addition to the quarterly services, Communion may be observed at other occasions, such as an evening candlelight service, a New Year's service, or in the setting known as an agape feast, frequently used as the closing event of a Week of Prayer.</p>
+      
+      <p class="mb-4">The Communion should be included in the annual church calendar and announced well in advance, providing church leaders with adequate time for preparation of the emblems and equipment needed for the service.</p>
+      
+      <p class="mb-4"><strong>Officiants.</strong> — Ordained ministers or elders are authorized to conduct the Communion service, assisted by deacons and deaconesses in the handling and distribution of the elements and provision of equipment needed for the ordinance of humility.</p>
+      
+      <p class="mb-4"><strong>Participants.</strong> — Adventists practice open Communion, inviting any who have committed their lives to Christ to participate. "Christ's example forbids exclusiveness at the Lord's Supper. It is true that open sin excludes the guilty. This the Holy Spirit plainly teaches. But beyond this none are to pass judgment. God has not left it with men to say who shall present themselves on these occasions. For who can read the heart?" (The Desire of Ages, p. 656). Individual conscience is the guide for participation. There is no authority for imposing other restrictions.</p>
+      
+      <p class="mb-4">According to the apostle Paul, "whoever eats this bread or drinks this cup of the Lord in an unworthy manner will be guilty of the body and blood of the Lord" (1 Cor. 11:27). This reference addresses particularly the manner in which this commemoration is observed. While fellowship is part of the occasion, it is a spiritual fellowship. It is an opportunity for members to renew their faith in Jesus and their fellowship with other believers.</p>
+      
+      <p class="mb-4">No specific age is established at which children are encouraged to participate. Awareness of the significance of the service comes at different times to different people. The Seventh-day Adventist Church has collectively agreed that children are entitled to participate actively in the Communion service when they have made "their commitment to Jesus in baptism" (Church Manual). For further information regarding the participation of children in Communion services, please consult the Church Manual.</p>
+      
+      <p class="mb-4"><strong>The sermon.</strong> — Because of the additional elements of a Communion Sabbath worship service, the regular order of worship may be shortened, including the sermon, in order to fit the time allotted for the service. This is particularly important in churches that provide multiple worship services, requiring careful timing of each. The Communion sermon is usually given just before participating in the ordinance of humility. Total sermon time should probably not exceed 10 minutes. Communion is not primarily a preaching service.</p>
+      
+      <p class="mb-4"><strong>The ordinance of humility.</strong> — The narrative of the foot washing, reported in the Gospel of John, is an integral part of the Last Supper. Jesus "rose from supper and laid aside His garments, took a towel and girded Himself. After that, He poured water into a basin and began to wash the disciples' feet, and to wipe them with the towel with which He was girded" (John 13:4, 5). Completing this task, He returned to the table and said, "If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that you should do as I have done unto you" (verses 14, 15).</p>
+      
+      <p class="mb-4">Provision should be made for men and women to participate in this ordinance in separate rooms if they so choose, or, as stated in the Church Manual, "in places where it is socially acceptable and where clothing is such that there would be no immodesty, separate arrangements may be made for husband and wife or parents and baptized children to share with each other in the foot-washing ceremony." Care should be given to assist those with physical limitations to allow for participation in this rite.</p>
+      
+      <p class="mb-4">Deacons and deaconesses are responsible for providing basins, water, and towels for this service. In addition, a hand washing basin should also be provided, along with soap and towels so that all may wash their hands following the ceremony. Participants return to the sanctuary when finished. For children not participating in the service, a story time may be provided.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">THE LORD'S SUPPER</h4>
+      
+      <p class="mb-4">The singing of Communion hymns by the congregation, or the playing of other appropriate music, aids in creating a spirit of quiet contemplation as the service leaders prepare and take their place at the Communion table. Emblems on the Communion table should be covered before and after the service. The officiating minister or elder uncovers the bread and reads an appropriate text, such as 1 Corinthians 11:23, 24. The congregation remains seated with bowed heads and those at the table kneel as an officiating elder asks God's blessing on the bread.</p>
+      
+      <p class="mb-4">Rising from their knees, the minister and elders symbolically break a portion of the bread, most of which has already been broken before the service. As an indication of care in sanitation, a bowl of water and a towel may be placed on the table for washing hands prior to the breaking of the bread. The serving trays are then given to the deacons, who distribute the bread to the congregation. When the deacons return from serving the congregation, the elders and minister serve them and one another. The one officiating repeats an appropriate phrase, such as the words of Jesus in 1 Corinthians 11:24, and leads the congregation in the partaking of the bread, followed by silent prayer.</p>
+      
+      <p class="mb-4">The leader then covers the bread, uncovers the wine, and reads a text such as 1 Corinthians 11:25, 26. An elder offers a prayer of blessing on the wine, and the distribution process is repeated. The leader repeats a phrase such as the words of Jesus in 1 Corinthians 11:25, and leads the congregation in the partaking of the wine, followed by silent prayer. If cup racks are provided in the pews, the used cups are placed there by the participants. If these are not available, the deacons return to the congregation, and the cups are placed back into the trays from which they were served, returning them to the Communion table, where they are again covered.</p>
+      
+      <p class="mb-4">Some Communion service equipment provides for the serving of both bread and wine simultaneously. In such instances the service continues as stated above, with the prayer of blessing being pronounced on both emblems prior to the distribution, at which time the participants receive both at once. It is recommended that individual Communion cups be used, enabling the entire congregation to partake of the wine in unison, and providing protection against the health hazard inherent in the use of a common cup.</p>
+      
+      <p class="mb-4">A hymn is sung in closing, following the pattern of the supper with the disciples, during which they sang a hymn and went out. Often this is one stanza of a well-known hymn sung unaccompanied, providing for more spontaneity and immediacy in the singing. As the congregation leaves, it is the custom in many churches for the deacons to stand at the door and receive an offering designated for the poor.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">POST-COMMUNION ACTIVITY</h4>
+      
+      <p class="mb-4">Leftover Communion emblems not consumed in the service are to be disposed of in a respectful manner. There is no biblical instruction or injunction as to the process for this disposal, but it is customary that the wine be poured out on the ground and the bread be burned.</p>
+      
+      <p class="mb-4">Elders, deacons, and deaconesses are responsible for serving Communion to those physically unable to attend the service. Foot washing may not be included in this service if circumstances indicate it to be unwise.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">EMBLEM PREPARATION</h4>
+      
+      <p class="mb-4">Unleavened bread and unfermented grape juice are to be used in the Lord's Supper. Where it is impossible to obtain grapes or grape juice, the juice of raisins may be used. In isolated areas where none of these are readily available, the conference will provide information regarding a suitable substitute.</p>
+      
+      <p class="mb-4"><strong>Communion bread recipe.</strong> — Congregations may have a Communion bread recipe that is preferred, but the ingredients are basically those in the following recipe:</p>
+      
+      <p class="mb-4">1 cup flour (preferably whole grain)</p>
+      <p class="mb-4">1/4 teaspoon salt (optional)</p>
+      <p class="mb-4">2 tablespoons water</p>
+      <p class="mb-4">1/4 cup olive or vegetable oil</p>
+      
+      <p class="mb-4">Sift flour and salt together. Pour the water into the oil, but do not stir. Add this to the dry ingredients and mix with a fork until all the flour is dampened. Roll out to a thickness of approximately 1/8 inch or 3 millimeters. Place on an ungreased, floured baking sheet, and score into bite-size squares. Bake at 450 degrees Fahrenheit for 10 to 15 minutes or until lightly browned. Watch carefully during the last few minutes to avoid burning the bread. Serves 50 persons.</p>
+    `
+  },
+  {
+    id: '32',
+    title: 'Weddings',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 32</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Weddings</h2>
+      </div>
+
+      <p class="mb-4">Weddings generally are among the most joyful celebrations of the church and a delightful pastoral responsibility. They afford the opportunity to minister in a joyful and spiritual celebration for couples and their families and friends. "The family tie is the closest, the most tender and sacred, of any on earth. It was designed to be a blessing to mankind. And it is a blessing whenever the marriage covenant is entered into intelligently, in the fear of God, and with due consideration for its responsibilities" (The Adventist Home, p. 18).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PREMARITAL COUNSELING</h4>
+      
+      <p class="mb-4">Though varying circumstances of time and distance may make it difficult for the pastor to arrange a schedule of premarital counseling, this vital step in preparation for marriage should not be overlooked. Engaged couples usually plan and schedule their wedding well enough in advance to provide ample opportunity for the pastor or some other qualified counselor to make this service part of the marriage planning. The Family Ministries Department of the General Conference provides material for premarital counseling made available through Adventist Book Centers.</p>
+      
+      <p class="mb-4">"Worship of God, Sabbathkeeping, recreation, association, use of financial resources, and training of children are responsible components of happy family relationships. Because differences in these areas can often lead to a deterioration of these relationships, to discouragement, and even to a complete loss of Christian experience, an adequate preparation for marriage should include premarital pastoral counseling in these areas" (Church Manual).</p>
+      
+      <p class="mb-4">With the widespread practice of premarital sexual contact, HIV infection and sexually transmitted diseases are rampant worldwide. Virginity prior to marriage, and faithfulness to the marriage vow after marriage, are vital in protecting the marriage partners from these dangers. If these have not been observed in a partner, full honesty and a careful medical examination should be advised prior to marriage.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">LEGAL REQUIREMENTS</h4>
+      
+      <p class="mb-4">The person who officiates at a wedding has the responsibility to be informed regarding marriage laws and requirements in the jurisdiction in which the marriage occurs, complying with requirements for registration and licensing procedures. In locations in which the minister does not have authorization to perform the legal ceremony, the marriage couple may follow the legal ceremony with a religious service provided by the pastor.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DENOMINATIONAL REQUIREMENTS</h4>
+      
+      <p class="mb-4"><strong>Authorized officiants.</strong> — "In the marriage ceremony the charge, vows, and declaration of marriage are given only by an ordained minister except in those areas where division committees have taken action to approve that selected licensed or commissioned ministers who have been ordained as local elders may perform the marriage ceremony" (Church Manual).</p>
+      
+      <p class="mb-4"><strong>Inadvisable marriage.</strong> — "Marriages are more likely to endure, and the family life to fulfill the divine plan, if the husband and wife are united and are bound together by common spiritual values and lifestyles. For these reasons, the Seventh-day Adventist Church strongly discourages marriage between a Seventh-day Adventist and a non-Seventh-day Adventist, and strongly urges Seventh-day Adventist ministers not to perform such weddings" (Church Manual).</p>
+      
+      <p class="mb-4">"The happiness and prosperity of the marriage relation depends upon the unity of the parties; but between the believer and the unbeliever there is a radical difference of tastes, inclinations, and purposes. They are serving two masters, between whom there can be no concord. However pure and correct one's principles may be, the influence of an unbelieving companion will have a tendency to lead away from God" (Patriarchs and Prophets, p. 174).</p>
+      
+      <p class="mb-4"><strong>Inappropriate remarriage.</strong> — The Church Manual addresses the issue of marriage, divorce, and remarriage, listing 10 qualifications regarding the propriety of remarriage after divorce. This statement follows these qualifications: "No Seventh-day Adventist minister has the right to officiate at the remarriage of any person who, under the stipulation of the preceding paragraphs, has no scriptural right to remarry."</p>
+      
+      <p class="mb-4"><strong>Inappropriate ceremony.</strong> — A church wedding is primarily a spiritual commitment and an act of worship. A wedding ceremony in which secular interests overshadow spiritual matters comprises an inappropriate ceremony for a Christian minister to perform.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CHURCH REQUIREMENTS</h4>
+      
+      <p class="mb-4"><strong>Wedding ceremony guidelines.</strong> — A church should recognize the advisability and appropriateness of establishing wedding ceremony guidelines for the use of its facilities. Such guidelines should be provided to those requesting the use of the church for a wedding ceremony. These guidelines may vary widely in different locations, but should include such issues as:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>who may use the church facilities for a marriage ceremony</li>
+        <li>who may officiate at a marriage ceremony</li>
+        <li>appropriate decorations</li>
+        <li>appropriate music</li>
+        <li>what constitutes appropriate dress standards</li>
+        <li>photography guidelines</li>
+        <li>reception guidelines if held in the church</li>
+        <li>usage fees</li>
+        <li>equipment and services available</li>
+      </ul>
+      
+      <p class="mb-4"><strong>Participants.</strong> — Of all church ceremonies and events, a wedding may involve more people who are not members of the church than any other function. Some such friends and family members may be invited to participate in the ceremony as part of the wedding party or in the performance of the music. So long as this participation meets the standards of the church, there should be no restrictions placed on this activity.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PLANNING THE WEDDING</h4>
+      
+      <p class="mb-4"><strong>Simplicity.</strong> — While the minister should not seek to control the details and planning of a marriage ceremony, simplicity and economy should be encouraged. "Let every step toward a marriage alliance be characterized by modesty, simplicity, sincerity, and an earnest purpose to please and honor God" (The Ministry of Healing, p. 359).</p>
+      
+      <p class="mb-4"><strong>Advance planning.</strong> — The minister, early in the planning of a marriage, should discuss with the bride and groom specific plans for the ceremony, assisting them in a well-planned order of service. Some couples will have detailed plans for the ceremony; others will not have much of an idea of what is involved. The minister should avoid the role of wedding coordinator, although the flow of the ceremony may to a significant degree be influenced by the minister providing counsel regarding matters such as the placement of families in the audience, position of the platform participants, and other details of the service.</p>
+      
+      <p class="mb-4"><strong>Rehearsal.</strong> — Most of the participants in a marriage ceremony are not accustomed to being in front of an audience, and may well be insecure and nervous at the prospect. Many of them may also be unacquainted with one another. The rehearsal can greatly lessen these tensions and bring a level of assurance to the wedding party. In cooperation with the wedding coordinator, assembling the participants for organizing the process, creating a sense of fellowship, and giving spiritual direction to the proceedings become quite valuable.</p>
+      
+      <p class="mb-4">After a few opening words of encouragement, a scripture, and prayer, the easiest approach may be to place all the participants in the location they will be during the ceremony while explaining each part of the service. After this explanation they should exit to the locations from which they will be entering into the ceremony, and then make the entrance to their assigned positions. The pastor should once again go through the flow of the ceremony, and then the wedding party should exit as they will at the close of the ceremony.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER OF SERVICE</h4>
+      
+      <p class="mb-4">Adventists have no prescribed nuptial liturgy. Customs regarding marriage ceremonies vary widely according to cultural traditions. In settings in which wedding customs differ from the one outlined below, divisions or unions might suggest adaptations that produce a more appropriate order of service. Home weddings are typically much simpler than ceremonies conducted in churches and as such are planned according to the taste and circumstances of the parties concerned. Home weddings usually include personal invitations, while attendance at church weddings may be open to anyone.</p>
+      
+      <p class="mb-4">The following suggested order of service will probably not be used in its entirety or in the exact order as outlined, but it may be adapted for use as needed and fitting:</p>
+      
+      <p class="mb-4">Musical prelude</p>
+      <p class="mb-4">Guestbook signing: The guestbook is usually signed in the foyer as guests enter. For large numbers of guests, pages may be separated and signed in different locations, reducing delay for those entering.</p>
+      <p class="mb-4">Seating of guests: Ushers generally seat the friends and family of the bride on the left side of the sanctuary and the groom's friends and family on the right. Special seating may be reserved in the front rows for the parents and the grandparents of the bride and groom.</p>
+      <p class="mb-4">Parents enter: The entrance of the parents of the bride and groom signals the beginning of the ceremony.</p>
+      <p class="mb-4">Special music</p>
+      <p class="mb-4">Minister and groom's party enter: The minister enters (usually from the right side near the front of the room), goes to the center of the platform, and faces the audience. The groom follows and stands to the left of the minister, with the groomsmen following to their locations to the left of the groom. The pastor should assume the responsibility of quietly prompting the wedding party in the various parts of the ceremony.</p>
+      <p class="mb-4">Bridal party enters: The bridesmaids, maid of honor, Bible boy, and flower girl (if all these are included) enter down the aisle from the back of the sanctuary.</p>
+      <p class="mb-4">Bride enters: Bride enters on the arm of her father or guardian. Though it is not mandatory to stand for this entry, if the bride's mother stands, the audience should stand with her.</p>
+      <p class="mb-4">Groom meets bride: The groom walks to the head of the center aisle to meet the bride, where she and her father stand beside the family pew.</p>
+      <p class="mb-4">Presentation of bride: see below.</p>
+      <p class="mb-4">Special music</p>
+      <p class="mb-4">Bride and groom proceed to platform: Bride and groom proceed to platform as the processional continues, coming to the center of the platform and turning to face each other in front of the minister.</p>
+      <p class="mb-4">Homily: see below.</p>
+      <p class="mb-4">Vows: see below.</p>
+      <p class="mb-4">Declaration of marriage: Customs and legal procedures vary regarding the declaration of marriage as a spiritual or legal statement, or as a combination of both.</p>
+      <p class="mb-4">Prayer: Having pledged their love and faithfulness to each other, the couple kneel as the minister prays for the power of God to enable them to keep that pledge and to fill their hearts and home with divine love, joy, and peace.</p>
+      <p class="mb-4">Special music: While the bride and groom kneel, musical pieces such as "The Lord's Prayer" or "Wedding Prayer" are particularly appropriate.</p>
+      <p class="mb-4">Marriage embrace</p>
+      <p class="mb-4">Introduction: Introduce the bride and groom now for the first time as a married couple. Invite the guests to the reception if the bride requests this.</p>
+      <p class="mb-4">Recessional: The bride and groom exit down the aisle as the recessional music begins. The wedding party follows in reverse order of their coming in, with the minister departing last.</p>
+      <p class="mb-4">Parents ushered out: Parents of the bride and groom are ushered out, in reverse order of their coming in.</p>
+      <p class="mb-4">Audience dismissed: Audience dismissed by row or en masse.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PRESENTATION OF BRIDE</h4>
+      
+      <p class="mb-4">Some couples or their families may prefer to omit this tradition, seeing it as demeaning to a woman as being the possession of her father or husband. For those who wish to preserve this traditional question, the officiant asks, "Who gives this woman to be married to this man?" which may be answered by the father saying, "I do," or her parents may say in unison, "We do."</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">HOMILY</h4>
+      
+      <p class="mb-4">The wedding homily should take no longer than five or 10 minutes and should address the plan of God for marriage and family unity, the love in marriage for one another, and the imagery of Christ's love for the church as a model of that love. While some personal information and sharing may be a valid part of this address, it should be remembered that this sacred service does not call for jocularity and secular behavior. Some suitable passages of Scripture addressing the topic of love and marriage follow:</p>
+      
+      <p class="mb-4">Genesis 1:26-28 created in God's image</p>
+      <p class="mb-4">Genesis 2:18-24 the first wedding</p>
+      <p class="mb-4">Song of Solomon 2 the song of love</p>
+      <p class="mb-4">Song of Solomon 8:6, 7 many waters cannot quench love</p>
+      <p class="mb-4">Mark 10:6-9 they are no longer two, but one flesh</p>
+      <p class="mb-4">John 2:1-10 the wedding at Cana</p>
+      <p class="mb-4">John 15:9-12 love one another that your joy may be full</p>
+      <p class="mb-4">1 Corinthians 13 love never fails</p>
+      <p class="mb-4">Ephesians 5:22-28 duty of husbands and wives</p>
+      <p class="mb-4">Hebrews 13:4 marriage is honorable</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">VOWS</h4>
+      
+      <p class="mb-4">The bride and groom join hands for the exchanging of vows. They may formally join right hands, or in a more intimate manner they may prefer to join both hands.</p>
+      
+      <p class="mb-4"><strong>Traditional vows.</strong> — In the traditional vow the minister addresses the groom, "Before God and in the presence of these witnesses, will you, [groom's name], have this woman, [bride's name], to be your wedded wife, to live together after God's ordinance in the sacred estate of matrimony? Will you love her, comfort her, honor her, cherish her, in sickness and in health, in prosperity or adversity; and, forsaking all others, keep yourself only unto her so long as you both shall live? Do you now so declare?"</p>
+      
+      <p class="mb-4">The groom answers: "I do."</p>
+      
+      <p class="mb-4">Then the minister addresses the bride: "Before God and in the presence of these witnesses, will you, [bride's name], have this man, [groom's name], to be your wedded husband, to live together after God's ordinance in the sacred estate of matrimony? Will you love him, comfort him, honor him, cherish him, in sickness and in health, in prosperity or adversity; and, forsaking all others, keep yourself only unto him so long as you both shall live? Do you now so declare?"</p>
+      
+      <p class="mb-4">The bride answers: "I do."</p>
+      
+      <p class="mb-4">The minister lays a hand on the joined hands of the bride and groom, saying: "Forasmuch as [groom's name] and [bride's name] have consented to be joined together in holy wedlock, and have witnessed the same before God and this company, and thereto have given and pledged their troth, each to the other, and have declared the same by joining hands, I, as a minister of the gospel and by the authority of the law of [legal jurisdiction], do pronounce that they are husband and wife. 'What . . . God hath joined together, let not man put asunder.'"</p>
+      
+      <p class="mb-4"><strong>Repeated vows.</strong> — If it is preferred, the same vows may be used in a repeated format, providing breaks for the bride and groom to repeat after the minister as indicated in the following presentation:</p>
+      
+      <p class="mb-4">"I, [groom's or bride's name], . . . before God and in the presence of these witnesses . . . take you, [bride's or groom's name], . . . to be my wedded [wife or husband], . . . to live together after God's ordinance . . . in the sacred estate of matrimony. I promise to love you . . . to comfort you . . . to honor you . . . and to cherish you . . . in sickness and in health . . . in prosperity or adversity . . . and, forsaking all others, keep only unto you . . . so long as we both shall live."</p>
+      
+      <p class="mb-4"><strong>Vows spoken by the couple.</strong> — Some couples desire to prepare their own vows and repeat them from memory. It is wise to ask them to write out the vows in advance and give a copy to the minister. This serves two purposes: giving the opportunity for suggestions on the text, and providing a method of prompting should they forget their lines under the pressure of the moment. Such vows should include the fact that the commitment is total and permanent, invoking God's help and blessing in keeping the vows. The traditional vow may be provided as a guide in preparation of individualized vows.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DECLARATION OF MARRIAGE</h4>
+      
+      <p class="mb-4">"By the power invested in me as a minister of the gospel of Jesus Christ, and by [legal jurisdiction], I now declare that [groom and bride] are husband and wife after the ordinance of God and according to the laws of [legal jurisdiction]. 'What . . . God hath joined together, let not man put asunder.'"</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">LICENSE SIGNING</h4>
+      
+      <p class="mb-4">In jurisdictions in which the signing of the marriage license is required following the ceremony, this may be cared for at the reception. In most cases the bride and groom sign along with witnesses and the person officiating. Preferred witnesses generally include the maid/matron of honor and the best man. In such settings the minister carries legal responsibility for registration of the marriage license within stated time limitations. Generally the married couple receives one copy; one must be given to the authorizing jurisdiction, and in some instances a copy is provided for the officiant's records.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">FEES AND EXPENSES</h4>
+      
+      <p class="mb-4">Churches should establish clearly stated wedding policies for the use of church facilities. Generally members of the congregation are not charged for the use of the church for a wedding, but others who wish to use the facilities may rightly be charged a fee that would cover the expense of the church for both the use of the building and those who are required to work both in advance preparation and cleanup following the wedding ceremony.</p>
+      
+      <p class="mb-4">Although Adventist ministers charge no fee for the performance of a marriage ceremony, when significant travel becomes necessary it is proper to accept reimbursement for expenses. Also the married couple may wish to provide an appreciation gift to the pastor for these services, and they may be insulted if the pastor refuses this token of gratitude. Personal judgment should be carefully used to assess this matter.</p>
+    `
+  },
+  {
+    id: '33',
+    title: 'Child Dedication',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 33</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Child Dedication</h2>
+      </div>
+
+      <p class="mb-4">The dedication of children to God is a practice established in Scripture and in the history of the Seventh-day Adventist Church and is conducted by pastors or elders.</p>
+      
+      <p class="mb-4">Distinct from those churches that practice infant baptism, the dedication of children follows the biblical example of Mary and Joseph dedicating the infant Jesus in the Temple (see Luke 2:22). Ellen G. White says of this: "The priest went through the ceremony of his official work. He took the child in his arms, and held it up before the altar. After handing it back to its mother, he inscribed the name 'Jesus' on the roll of the firstborn" (The Desire of Ages, p. 52).</p>
+      
+      <p class="mb-4">From the occasion of blessing the children, Jesus gives a further example of this practice when He says, "Let the little children come to Me, and do not forbid them; for of such is the kingdom of God" (Mark 10:14). "And He took them up in His arms, put His hands on them, and blessed them" (Mark 10:16). "Let ministers of the gospel take the little children in their arms, and bless them in the name of Jesus. Let words of tenderest love be spoken to the little ones; for Jesus took the lambs of the flock in His arms, and blessed them" (Evangelism, pp. 349, 350).</p>
+      
+      <p class="mb-4">This service emphasizes thanks to God for the miracle of birth, covenants the parents in raising the child in the love of Christ, commits the congregation to provide support for the parents in their responsibility, and dedicates the child to the service of God.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PLANNING A CHILD DEDICATION</h4>
+      
+      <p class="mb-4">When planning the service, it is important to consider the following:</p>
+      
+      <p class="mb-4"><strong>Place.</strong> — In some cultures this dedication may occur in the home or other settings. However, in most circumstances the ideal would be to integrate the child dedication as part of the Sabbath morning worship service. Since commitment of the congregation signifies one of the purposes of the dedication, it should be held when the largest possible representation from the congregation is available.</p>
+      
+      <p class="mb-4"><strong>Scheduling.</strong> — Child dedication services may be scheduled and announced well in advance, providing ample time for parents to plan for the occasion. More frequently, however, the service is scheduled around the dates preferred by the family involved in the dedication. By nature of the event, family and friends who are not members of the congregation will likely be invited to witness the dedication. Recognition and a special welcome should be extended to these guests. At times some who are not members of the church may be moved to seek this service of dedication for their children. Because of this request and perhaps through this service, they may be brought into fellowship with the congregation. As Scripture states: "A little child shall lead them."</p>
+      
+      <p class="mb-4"><strong>Dedication certificate.</strong> — To commemorate the occasion, child dedication certificates should be prepared in advance and presented to the parents at the time of the service. These certificates are usually available at Adventist Book Centers.</p>
+      
+      <p class="mb-4"><strong>Age.</strong> — Infants may be dedicated at as young an age as parents desire. Children beyond the age of one or two years are seldom involved in a dedication service; however, no set age limit exists in regard to child dedication.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CONDUCTING A CHILD DEDICATION</h4>
+      
+      <p class="mb-4">Following are the suggested parts of the child dedication service:</p>
+      
+      <p class="mb-4"><strong>Invitation.</strong> — Parents are invited to come before the congregation with the child to be dedicated. In some instances, additional family members and friends may accompany them depending on space available and the number of children being dedicated. As the families are coming before the congregation, a fitting hymn may be sung by the congregation. But it must be remembered that the timing of this event should be short, recognizing the potential for distress and crying of the children.</p>
+      
+      <p class="mb-4"><strong>Homily.</strong> — A brief homily should emphasize the covenant of the parents and the commitment of the congregation, pledging to bring the child up "in the training and admonition of the Lord" (Eph. 6:4). Possible scriptures to be used follow:</p>
+      
+      <p class="mb-4">Deuteronomy 6:4-7 "Teach them diligently to your children."</p>
+      <p class="mb-4">Psalm 127:3-5 "Children are a heritage from the Lord."</p>
+      <p class="mb-4">Proverbs 22:6 "Train up a child in the way he should go."</p>
+      <p class="mb-4">Isaiah 8:18 "Here am I and the children whom the Lord has given me!"</p>
+      <p class="mb-4">Matthew 18:2-6, 10 "Take heed that you do not despise one of these little ones."</p>
+      <p class="mb-4">Matthew 19:13-15 "Then little children were brought to Him that He might put His hands on them and pray."</p>
+      <p class="mb-4">Mark 10:13-16 "Let the little children come to Me, and do not forbid them."</p>
+      <p class="mb-4">Luke 2:22-38 "They brought Him [Jesus] to Jerusalem."</p>
+      <p class="mb-4">Luke 18:15-17 "Then they also brought infants to Him."</p>
+      
+      <p class="mb-4">At the close of the homily a statement of commitment such as the following may be used:</p>
+      
+      <p class="mb-4">"In bringing this child for dedication, you are accepting a sacred responsibility. By this symbolic act you seek to express your belief that this child is not only yours but God's. The congregation joins you in dedicating this child and pledges to assist you in working toward the day when this act of dedication shall be followed by baptism and a full entering of this child into membership in the church family.</p>
+      
+      <p class="mb-4">"You, therefore, must promise to do all in your power to bring this child up in the nurture and admonition of the Lord. Do you so covenant with God?"</p>
+      
+      <p class="mb-4"><strong>Prayer.</strong> — During the prayer of dedication, if only one child is dedicated, the pastor may wish to hold the child. But for some children who are frightened of strangers, it would be best for the parents to hold the child as the pastor places a hand on the child's head in dedication. When there are multiple children in the dedication service, the pastor and elders assisting in the service may place their hands on the heads of the children. An individualized, relational atmosphere should prevail during the dedication. Mention of the child's name in the prayer adds a personal touch that parents recognize as important.</p>
+      
+      <p class="mb-4"><strong>Dedication certificates.</strong> — Certificates of dedication are given to the parents after the prayer, as well as expressions of love and support from the elders for the children and their families. Children's Sabbath school division leaders may also be involved in this expression.</p>
+    `
+  },
+  {
+    id: '34',
+    title: 'Anointing and Deliverance',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 34</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Anointing and Deliverance</h2>
+      </div>
+
+      <p class="mb-4">In Scripture the act of anointing with oil and other substances connects with many different functions, such as the coronation of kings and the ordaining of priests and prophets. It is in the realm of prayer for the sick that anointing is presently practiced in the church, but its original significance has at times been distorted or lost in current usage. It was practiced in the early church in connection with prayer and became a comforting medical practice as well as a symbol of the blessing of the Holy Spirit's healing power. James instructs the ill to "call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven" (James 5:14, 15).</p>
+      
+      <p class="mb-4">Anointing addresses not only sickness, but forgiveness as well. It is a time of serious reflection and commitment to the will of God, and it is in the prayer of faith that His restoring power and grace are given. Anointing is not reserved as a last rite for the dying, nor is there mystical power in the oil itself. Both James and the early church were well aware that they were placing themselves in the hand of God in faith, trusting that His will would be accomplished in their lives. It is in this sense that the church continues to practice this sacred rite.</p>
+      
+      <p class="mb-4">Early Adventist leaders frequently engaged in the practice of anointing. Ellen White and her family were anointed multiple times for various ailments. It was the practice rather than the exception. Anointing is not a last rite to bless the dying, but an act of faith to heal the living. It recognizes serious health problems and meets them by placing trust in God.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">PREPARING FOR THE SERVICE</h4>
+      
+      <p class="mb-4"><strong>Requesting anointing.</strong> — The sick are instructed to "call for the elders of the church." While it is generally the practice for the sick individual to request this rite, it may be that illness renders the person incapable of making the request. In such cases, it is acceptable for family or friends to make the request. Generally this request will come from members of the congregation, but on occasion others may request this service as well. It is not the position of the pastor to judge the worthiness of the individual and the request, but to do as Scripture states in praying for the sick. The anointing service is an intensely personal event, addressing the specific needs and requests of one person. It is not designed for mass audiences and healing services. The purpose of anointing and prayer, stated in the Epistle of James, is not designed for attracting large audiences. This is a distortion of the truth.</p>
+      
+      <p class="mb-4"><strong>Officiating.</strong> — A minister usually leads out, assisted by the presence and prayers of the elders. Church elders may officiate at an anointing service in the absence of a minister, but should do so with the pastor's approval whenever reasonably possible. Those who lead out should have a serious commitment to Christ, believing firmly in divine healing and having prepared their hearts for the occasion.</p>
+      
+      <p class="mb-4"><strong>Location.</strong> — An anointing service may be held in a church, home, hospital, nursing facility, or wherever the need may arise. If it is conducted in a hospital, care should be taken to avoid interference with the medical staff. The length and formality of the service depend on the place it is held and the condition of the recipient.</p>
+      
+      <p class="mb-4"><strong>Participants.</strong> — In addition to the minister and elders, the recipient may wish to invite friends and family members. Generally those present will be of Christian persuasion; however, those who are not, but wish to be present, should not be asked to leave.</p>
+      
+      <p class="mb-4"><strong>Recipient.</strong> — It may be that the one being anointed does not wish to reveal details of their illness. This reticence should be respected. The sick person should be encouraged to participate in self-examination before the anointing, being assured of the love, grace, and forgiveness of God. In preparation for the service, it would be helpful to suggest reading the chapter "Prayer for the Sick" in The Ministry of Healing. It is always wise to be careful what is said regarding the illness in the presence of the one who is ill, particularly when it is assumed that they are unconscious and cannot hear the conversation. Though there may be no signs of recognition, they may be able to understand what is being said in the room.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER OF SERVICE</h4>
+      
+      <p class="mb-4"><strong>Preliminary remarks.</strong> — The leader should open with an explanation of the purpose of anointing and how it takes place. The recipient may wish to comment on the sick person's request for anointing and testify to their faith in God. The reading of scripture should affirm:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>that God can and does heal.</li>
+        <li>that sin is confessed and forgiven.</li>
+        <li>that God may choose to heal through those to whom He has entrusted gifts of healing.</li>
+        <li>that prayer for healing is always answered yes to those who believe, either immediately, over time, or in the final restoration of all things at the second coming of Christ, but always in the affirmative.</li>
+      </ul>
+      
+      <p class="mb-4"><strong>Scripture reading.</strong> — Before the act of anointing, selected scriptures should be read, such as:</p>
+      
+      <p class="mb-4">James 5:14-16 "Let them pray over him, anointing him with oil."</p>
+      <p class="mb-4">Psalm 103:1-5 "Who heals all your diseases."</p>
+      <p class="mb-4">Psalm 107:19, 20 "Then they cried out to the Lord in their trouble."</p>
+      <p class="mb-4">Mark 16:15-20 "They will lay hands on the sick, and they will recover."</p>
+      
+      <p class="mb-4"><strong>The anointing prayer.</strong> — While kneeling in prayer is appropriate and preferred in many instances, it may be that doing so around a hospital bed would be impractical. If the one being anointed wishes to pray, allow them to pray first, followed by any others in the group who are asked to pray. The pastor or elder should pray last and, at the conclusion of prayer, place the anointing oil on the forehead of the one being anointed, symbolizing the touch of the Holy Spirit in a specific and special way. It is generally the practice to use olive oil for this purpose. However, this is not mandatory. The oil should be applied to the head and not the affected part of the body.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">DELIVERANCE MINISTRY</h4>
+      
+      <p class="mb-4">The anointing service in James addresses primarily physical illness and forgiveness. However, there is also a ministry in Scripture that addresses possession by demonic powers. "We do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places" (Eph. 6:12, 13). While this struggle is not manifested equally in all places, there are occasions during which demonic power becomes evident.</p>
+      
+      <p class="mb-4">To assume that one knows how this power will appear and the precise methodology of how to deal with it ignores the variety of ways it has manifested itself and was dealt with in the ministry of Christ and the early church. Early in His ministry in the synagogue at Capernaum, Jesus was confronted by a man possessed with a demon who recognized Him as "the Holy One of God" (Mark 1:24). With a simple declaration commanding the demon to "be quiet, and come out of him!" (verse 25) the man was healed. Later that same evening "they brought to Him all who were sick and those who were demon-possessed. . . . Then He healed many who were sick with various diseases, and cast out many demons" (verses 32-34).</p>
+      
+      <p class="mb-4">The demoniac at Gadara was possessed, as he stated, by a "legion" of demons (Mark 5:1-20), and Luke reports the casting out of a demon that was mute (Luke 11:14). In all these cases the pattern repeats itself. Jesus simply commands them to come out, and they obey His word. In this power the disciples continued the same ministry as "He called His twelve disciples together and gave them power and authority over all demons, and to cure diseases" (Luke 9:1). "Like the twelve apostles, the seventy disciples whom Christ sent forth later received supernatural endowments as a seal of their mission. When their work was completed, they returned with joy, saying, 'Lord, even the devils are subject unto us through thy name'" (The Ministry of Healing, p. 94).</p>
+      
+      <p class="mb-4">In the name of Jesus this ministry continued in the early church. New believers brought "sick people and those who were tormented by unclean spirits, and they all were healed" (Acts 5:16). In response to the preaching of Philip, "unclean spirits, crying with a loud voice, came out of many who were possessed" (Acts 8:7). In its current manifestations, demon possession must still deal with the same straightforward command: to come out in the name of Jesus. For a fuller discussion of demon possession, see the additional note on chapter 1 of the Gospel of Mark in The Seventh-day Adventist Bible Commentary (vol. 5, p. 575).</p>
+    `
+  },
+  {
+    id: '35',
+    title: 'Funerals',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 35</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Funerals</h2>
+      </div>
+
+      <p class="mb-4">Totally contrary to the nature of God as the Creator and Life-giver, death equates as the ultimate enemy of all that is good, an intrusion into the perfection of Eden brought on by sin that passed to all humanity. So death reigns as the untimely intrusion that disrupts all of life's joys and plans, demanding immediate attention. Yet even this most difficult and dreaded responsibility of ministry provides an opportunity to honor the memory of a loved one and comfort the bereaved in their loss, pointing them to the day of joyful reunion when "the last enemy," death, will be destroyed (1 Cor. 15:26).</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">TRADITION AND CULTURE</h4>
+      
+      <p class="mb-4">Ministry to the bereaved calls for respect of traditions and culture in dealing with death, but always in the context of Christian principles and the biblical understanding of death. Churches tend, in dealing with funerals, to establish customs and procedures that likewise need to be respected and observed. Some deliver food to the homes of those in mourning, while others provide a meal at the church after the funeral. Some prefer to conduct funerals at the church, while others prefer the service at funeral parlors. Some schedule viewing of the body with the family at a wake, some at the beginning of the funeral service, others at the close, while some prefer no viewing at all. The pastor should recognize the importance of knowing traditions of the congregation in conducting funerals. Because cultures and congregations vary so widely, only basic guidelines, which may require considerable adaptation to fit local situations, are given here.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">BEFORE THE SERVICE</h4>
+      
+      <p class="mb-4"><strong>Visiting the family.</strong> — The immediate visitation in support of the family becomes a time for encouraging words of comfort, scripture, and prayer, not theological discourse. Mourners may remember little of what pastors say during this initial shock, but they will remember the care demonstrated by the support of presence.</p>
+      
+      <p class="mb-4"><strong>Offering the assistance of the church.</strong> — Specific suggestions should be given as to how the church might be able to help, such as assisting in the notifying of relatives and friends, answering the phone or the door, arranging for care of the children, providing food, or cleaning the house in preparation for guests.</p>
+      
+      <p class="mb-4"><strong>Offering pastoral assistance.</strong> — Few have ever had the responsibility of planning a funeral service, and in the immediacy of death, it may be difficult for the bereaved to consider clearly the options and details of a funeral service. If dying has been a lingering experience, perhaps some thought may have been given in advance, yet even in these situations gentle assistance and guidance is needed.</p>
+      
+      <p class="mb-4">The choice of who will conduct the funeral service may be influenced by attachments to those who have ministered to the family in previous times, particularly if the current pastor has been in the church for only a short time. It should not be considered a personal affront to the pastor if the family chooses someone else for this service. Assistance may be needed in making arrangements and contacts with those who will be called upon to serve as pallbearers, provide music, and assist the minister in the service. When serving as a guest minister in another pastor's church, the guest should remember the importance of working closely with the pastor while encouraging the family to involve their pastor in the service as well.</p>
+      
+      <p class="mb-4"><strong>Officiating at funerals.</strong> — Ordination is not required for the conducting of funerals. In the absence of a minister, an elder may lead out. Frequently a friend or member of the family may be called to assist the minister in the service by giving the obituary, scripture, prayer, or eulogy. Generally the mortician caring for the body of the deceased will care for the details of proper burial and legal documentation needed in the jurisdiction in which the burial takes place. Seventh-day Adventist ministers do not charge a fee for the conducting of funerals. However, it is reasonable to receive reimbursement for travel expenses.</p>
+      
+      <p class="mb-4"><strong>Viewing the body.</strong> — The wisdom of the culture should be respected in viewing the body. In some settings family and friends are invited to the funeral parlor for viewing. For some, families keep the body at home, with a wake held in this location. For others, services are held around the casket in the evening until the day of the funeral. In whatever way the bereaved plan the viewing, it serves a useful purpose. Death must be faced before recovery can begin.</p>
+      
+      <p class="mb-4">At the funeral service the body may be displayed so that people may pay their respects as they enter. The casket is then closed, and the funeral service, focused on hope and assurance, is not dampened by a final viewing. Other cultures and congregations prefer to have a viewing at the close of the service prior to closing the casket and departing to the gravesite.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">TYPICAL FUNERAL SERVICE</h4>
+      
+      <p class="mb-4"><strong>Conducting the funeral.</strong> — In settings in which the family chooses the funeral parlor for the service, the funeral director is in charge of funeral arrangements, and the minister takes charge of the religious features of the service. The funeral becomes conducted as a team between the minister and the funeral director. Promptness and planning in the conducting of a funeral service become vital. Delay and indecision increase tension in an already difficult setting.</p>
+      
+      <p class="mb-4"><strong>Ministering to the bereaved.</strong> — The bereaved are typically brought together in a side room before being ushered in to their seats in the funeral parlor. A few words of encouragement, a prayer, and the mutual support of the group help the bereaved brace for the finality of the service. This ministry also serves as a measure of the grief reaction that may be expected from the mourners.</p>
+      
+      <p class="mb-4"><strong>Order of service.</strong> — The order of service for a funeral should be straightforward and simple. A suggested order of service, which may be adapted or expanded as fits the situation, follows:</p>
+      
+      <p class="mb-4"><strong>Seating of the family.</strong> — Participants enter and are seated.</p>
+      
+      <p class="mb-4"><strong>Scripture reading and prayer.</strong> — The scripture might be taken from those listed below, perhaps combining several of the texts together. The prayer includes thanks to God for the life that He has given the deceased, comfort for those who mourn, and the hope of eternal life through Christ. The one praying usually stands, and the audience remains seated for the prayer.</p>
+      
+      <p class="mb-4"><strong>Song of comfort.</strong> — Music performed by guest musicians is generally preferable to congregational singing, as this often does not work well in such settings, where emotions may interfere with the ability to sing.</p>
+      
+      <p class="mb-4"><strong>Eulogy and obituary.</strong> — The eulogy and obituary, designed to bring honor to the life of the deceased, may be combined in one or read separately. A eulogy features a longer remembrance and honoring of the life of the deceased; an obituary addresses primarily the factual data of the dates of birth, death, names of survivors, and a few notable events from the life of the deceased. A bit of recalled joy, and even humor, in these readings helps to ease the tension of the occasion.</p>
+      
+      <p class="mb-4"><strong>Testimonials.</strong> — Some find it comforting to give or hear testimonials from those in attendance at the funeral. While this may be helpful in some settings, these remembrances may become too lengthy, overly emotional, or inappropriately personal.</p>
+      
+      <p class="mb-4"><strong>Sermon.</strong> — The funeral sermon should be both realistic about death and hopeful for the resurrection, recognizing the contributions of the deceased and the loss to the family, to the community, and to God. The use of poetry may be fitting at the close of the sermon. The person presenting the sermon should recognize the importance of keeping the length of the presentation appropriate to the other parts of the program.</p>
+      
+      <p class="mb-4"><strong>Prayer.</strong> — The sermon closes with a prayer of faith and hope for the future and strength for those who remain.</p>
+      
+      <p class="mb-4"><strong>Song of comfort.</strong> — As noted above.</p>
+      
+      <p class="mb-4">At this point in the service the minister customarily moves to the head of the casket, remaining there until after the audience and family have passed by, if the family has requested a viewing. The pastor then leads the pallbearers carrying the casket to the hearse, in which they place the casket for the journey to the gravesite. The minister chooses to ride in the hearse or follows directly behind it on the route to the gravesite.</p>
+      
+      <p class="mb-4"><strong>Scriptures.</strong> — Sermons and scripture readings can be drawn from the following:</p>
+      
+      <p class="mb-4">Job 14:1, 2, 14, 15 "You shall call, and I will answer you."</p>
+      <p class="mb-4">Psalm 23 "Though I walk through the valley of the shadow of death."</p>
+      <p class="mb-4">Psalm 27 "Wait on the Lord; be of good courage."</p>
+      <p class="mb-4">Psalm 46 "God is our refuge and strength."</p>
+      <p class="mb-4">Psalm 90 "Lord, You have been our dwelling place in all generations."</p>
+      <p class="mb-4">Psalm 91:1, 2, 11, 12 "I will say of the Lord, 'He is my refuge and my fortress.'"</p>
+      <p class="mb-4">Psalm 121 "My help comes from the Lord."</p>
+      <p class="mb-4">Isaiah 33:15-17, 24 "The inhabitant will not say, 'I am sick.'"</p>
+      <p class="mb-4">Isaiah 35:3-10 "Sorrow and sighing shall flee away."</p>
+      <p class="mb-4">Isaiah 40:28-31 "Those who wait on the Lord shall renew their strength."</p>
+      <p class="mb-4">Isaiah 43:1, 2 "When you pass through the waters, I will be with you."</p>
+      <p class="mb-4">John 14:1-6 "I will come again and receive you to Myself."</p>
+      <p class="mb-4">Romans 8:14-39 "All things work together for good to those who love God."</p>
+      <p class="mb-4">1 Corinthians 2:9, 10 "Eye has not seen, nor ear heard."</p>
+      <p class="mb-4">1 Corinthians 15:20-26 "The last enemy that will be destroyed is death."</p>
+      <p class="mb-4">1 Corinthians 15:51-55 "This mortal must put on immortality."</p>
+      <p class="mb-4">Philippians 3:20, 21 "For our citizenship is in heaven."</p>
+      <p class="mb-4">1 Thessalonians 4:13-18 "Lest you sorrow as others who have no hope."</p>
+      <p class="mb-4">1 Thessalonians 5:1-11 "Whether we wake or sleep, we should live together with Him."</p>
+      <p class="mb-4">Hebrews 4:14-16 "For we do not have a High Priest who cannot sympathize."</p>
+      <p class="mb-4">2 Peter 3:8-14 "Not willing that any should perish."</p>
+      <p class="mb-4">Revelation 7:15-17 "They shall neither hunger anymore nor thirst anymore."</p>
+      <p class="mb-4">Revelation 14:13 "Blessed are the dead who die in the Lord."</p>
+      <p class="mb-4">Revelation 21:1-4 "And God will wipe away every tear from their eyes."</p>
+      <p class="mb-4">Revelation 22:1-5 "They shall see His face."</p>
+      
+      <p class="mb-4"><strong>Funeral of child</strong></p>
+      <p class="mb-4">2 Samuel 12:16-23 David's grief.</p>
+      <p class="mb-4">Mark 10:13-16 "He took them up in His arms."</p>
+      
+      <p class="mb-4"><strong>Funeral of youth</strong></p>
+      <p class="mb-4">Ecclesiastes 11:6-10 "Rejoice, O young man, in your youth."</p>
+      <p class="mb-4">Ecclesiastes 12 "Remember now your Creator in the days of your youth."</p>
+      <p class="mb-4">Luke 7:11-15 Nain widow's son. "Young man, I say to you, arise."</p>
+      
+      <p class="mb-4"><strong>Funeral of godly woman</strong></p>
+      <p class="mb-4">Proverbs 31:10-31 "Who can find a virtuous wife? For her worth is far above rubies."</p>
+      <p class="mb-4">Matthew 26:10-13 "What this woman has done will also be told as a memorial to her."</p>
+      <p class="mb-4">Acts 9:36-42 Dorcas. "This woman was full of good works."</p>
+      
+      <p class="mb-4"><strong>Funeral of elderly individual</strong></p>
+      <p class="mb-4">Genesis 15:15 "You shall be buried at a good old age."</p>
+      <p class="mb-4">Matthew 11:28 "I will give you rest."</p>
+      <p class="mb-4">2 Timothy 4:6-8 "I have finished the race, I have kept the faith."</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">THE GRAVESIDE SERVICE</h4>
+      
+      <p class="mb-4">While leading the casket to the grave, the person who leads in the funeral service should remember to avoid walking on other graves as much as possible. At the graveside, customarily the leader stands at the head of the deceased, facing the family. The use of music at the graveside should be determined by local custom and family wishes, but music generally serves to extend the time beyond what should be a brief service. If the graveside service includes the military or other organizations who participate in the burial, planning and coordination with them will be required. Inclement weather will make keeping the graveside service succinct even more important.</p>
+      
+      <p class="mb-4"><strong>Informal committal.</strong> — A simple, informal committal may consist of a scripture reading and a prayer. First Thessalonians 4:13-18 and 1 Corinthians 15:51-55 serve this purpose well, followed by a prayer of faith and hope in the resurrection.</p>
+      
+      <p class="mb-4"><strong>Formal committal.</strong> — A formal committal, if used, fits well between the scripture and the prayer. Interment customs vary. In some settings the custom includes the minister dropping a handful of earth or flower petals on the casket as the committal is read. To others, this may be considered a rather harsh reminder of human frailty, which need not be depicted so graphically.</p>
+      
+      <p class="mb-4"><strong>Sample committal for a Christian</strong></p>
+      <p class="mb-4">"Forasmuch as God in His infinite love and wisdom has permitted our dear [brother/sister] to fall asleep in Christ, we do tenderly commit [his/her] body to the ground, in the sure and certain hope of a joyful resurrection when our Lord shall return in glory. Then this body of our humiliation shall be changed and made like unto His glorious body, according to the mighty working whereby He is able even to subdue all things unto Himself."</p>
+      
+      <p class="mb-4"><strong>Sample committal for one not known to be a Christian</strong></p>
+      <p class="mb-4">"Forasmuch as God in His goodness and the outworking of His providence has permitted this our friend [brother/sister] to lay down the burdens of this life, we do lovingly commit [his/her] body to the ground, remembering, as we do, that all the issues of life are in the hands of the everlasting Father of love and compassion, and that He has promised eternal life to those who love Him."</p>
+      
+      <p class="mb-4"><strong>After the service.</strong> — Following the prayer and the end of the service, the family may be greeted briefly. The pastor should then remain until those in attendance have left the gravesite.</p>
+      
+      <p class="mb-4"><strong>Interment before funeral.</strong> — On occasion the interment may have occurred prior to the funeral service, perhaps as a private service for the family. From the graveside the family then goes to the church for the public service. In such a setting, the service concentrates more on the celebration of a life than the mourning of a death.</p>
+      
+      <p class="mb-4"><strong>Cremation.</strong> — Cremation is an appropriate alternative to burial in many settings. Adventists take no theological stand against cremation, believing that God will be no more dependent on preexisting matter at the resurrection than He was at Creation. Local culture and the sensibilities of the family may influence the acceptance of this practice.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">MINISTERING TO THE GRIEVING</h4>
+      
+      <p class="mb-4"><strong>Be present.</strong> — Because the bereaved will continue to suffer from the loss of a loved one after the funeral, continued contact should be scheduled. With the immediate crisis over and the company gone, loneliness sets in. Ministering to those who are grieving only begins with the funeral, and should continue for many months afterward. The church should provide support as an ongoing ministry to the grieving.</p>
+      
+      <p class="mb-4"><strong>Be patient.</strong> — The process of grieving takes time. Sleeplessness, anxiety, fear, anger, and a preoccupation with sad thoughts may continue on and off for a year or more. Unrealistic expectations that those who are bereaved should "snap out of it" may leave them feeling anxious and guilty and make the process of grieving more difficult. Some may express anger at God, which should be treated kindly and without judgmental comment as the bereaved are brought again to trust and faith.</p>
+      
+      <p class="mb-4"><strong>Listen.</strong> — Talking and sharing are effective ways of releasing emotions and undergoing healing. The bereaved usually enjoy talking about their lost loved ones that bring back precious and important memories. In a sense, however, people must say goodbye to the past before they can enjoy the present or look forward to the future. Be sensitive to indications of denial, such as refusal to talk about the death or unwillingness to part with the deceased's personal effects.</p>
+      
+      <p class="mb-4"><strong>Encourage activity.</strong> — As soon as possible, the grieving ones should be encouraged to commit themselves to some regular activity that comprises a benefit to others. Becoming active in a grief support group may be helpful.</p>
+    `
+  },
+  {
+    id: '36',
+    title: 'Church Opening, Dedication, and Groundbreaking',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 36</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Opening, Dedication, and Groundbreaking</h2>
+      </div>
+
+      <p class="mb-4">One of the highest of days in the life of a congregation involves establishing a new house of worship. Entering the new church as a congregation for the first time, and inviting the presence of God to reign supreme in the new edifice, comprise a joyful and sacred privilege. The tradition and policy of the Adventist Church, however, entails the holding of the dedication service only after the debt for the new facility has been paid.</p>
+      
+      <p class="mb-4">Given that the financial realities of building or purchasing a new facility generally involve some long-term debt, this creates certain tensions and difficulties between the fervor of opening a new place of worship and waiting to dedicate the church until the mortgage has been paid. As a result, a ceremony of consecration and ribbon cutting of the new facility may initiate its use, and a ceremony of dedication and mortgage burning celebrates its debtfree ownership.</p>
+      
+      <p class="mb-4">Guests are an important part of a consecration or dedication service. Former members and supporters of the project as well as conference officials and former pastors should be invited to participate. City leaders and community pastors may also be invited to attend and participate in the service.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER OF SERVICE</h4>
+      
+      <p class="mb-4">The order of service for either a consecration or dedication may be quite similar, with a few specific distinctions:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>opening hymn</li>
+        <li>prayer</li>
+        <li>recognition of members, guests, and contributors</li>
+        <li>history of the church</li>
+        <li>scripture reading</li>
+        <li>special song or hymn</li>
+        <li>sermon</li>
+        <li>act of dedication or consecration</li>
+        <li>prayer of dedication or consecration</li>
+        <li>hymn</li>
+        <li>benediction</li>
+      </ul>
+      
+      <p class="mb-4"><strong>History of the church.</strong> — An historical sketch may be best presented by someone with recognized longstanding membership in, and support of, the church. Charter or lifetime members and former pastors should be recognized and honored and appreciation expressed to those most directly involved with the new building. The history can climax with an announcement of upcoming plans and programs for serving the community. The church must not only remember the past but also project its future.</p>
+      
+      <p class="mb-4"><strong>Scripture reading.</strong> — Relevant scripture readings may be found in Solomon's prayer at the dedication of the Temple (1 Kings 8:23-25 or 2 Chronicles 6:14-42). Other passages often used at such occasions include:</p>
+      
+      <p class="mb-4">Exodus 40:33-35 "The glory of the Lord filled the tabernacle."</p>
+      <p class="mb-4">Nehemiah 12:27 "Celebrate the dedication with gladness."</p>
+      <p class="mb-4">Psalm 84 "How lovely is Your tabernacle."</p>
+      <p class="mb-4">Psalm 100 "Enter into His gates with thanksgiving."</p>
+      <p class="mb-4">Psalm 122 "I was glad when they said to me, 'Let us go into the house of the Lord.'"</p>
+      
+      <p class="mb-4"><strong>Sermon.</strong> — Any of the texts mentioned above could be developed into a dedicatory sermon, noting particularly that a church consists of not just a building, but a group of people. The congregation has come to dedicate itself, not just its building, to God's service.</p>
+      
+      <p class="mb-4"><strong>Act of dedication.</strong> — A burning of the copy of the mortgage serves as the symbolic freeing of the church from debt. This can be a climactic event, especially if the church has been in debt for some time and has recently sacrificed significantly to become debt-free. Many church groups find singing the doxology very appropriate as the mortgage burns. A longer litany, prior to the prayer of dedication, involving the congregation may be used at this point. An example provided below may be used in its entirety or excerpted and adapted to fit the local situation.</p>
+      
+      <p class="mb-4"><strong>Prayer of dedication.</strong> — The dedicatory prayer may well be modeled after that of Solomon at the dedication of the Temple recorded in 2 Chronicles 6. This prayer deserves careful planning and preparation. The prayer should include:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>thanks to God for providing through His people the means and the desire to build</li>
+        <li>confession of sin and plea for the outpouring of the Holy Spirit upon the congregation</li>
+        <li>guidance for the work of the church in building the kingdom of God in this place</li>
+        <li>a blessing for the members and guests</li>
+      </ul>
+      
+      <p class="mb-4">The prayer concludes with specific words of dedication, such as:</p>
+      
+      <p class="mb-4 pl-4 border-l-4 border-slate-200 italic">
+        "We now dedicate this building to You, O God,<br>
+        as a light in this community,<br>
+        as a house of prayer for all people.<br>
+        For the worship of God,<br>
+        for the conversion of sinners,<br>
+        for the preaching of Christ and His Word,<br>
+        for the fellowship of the family of God,<br>
+        for the saving of our children,<br>
+        for the dwelling place of God,<br>
+        we dedicate this house, in the name of the Father,<br>
+        and of the Son, and of the Holy Spirit. Amen."
+      </p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">LITANY</h4>
+      
+      <p class="mb-4 font-bold">Let Them Build a Sanctuary</p>
+      
+      <p class="mb-4">In the beginning God created the heavens and the earth. Now the Lord God had planted a garden in the east, in Eden. And there He put the man He had formed.</p>
+      <p class="mb-4">And the Lord God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food.</p>
+      <p class="mb-4">In the middle of the garden were the tree of life and also the tree of the knowledge of good and evil.</p>
+      <p class="mb-4">When the woman saw that the fruit was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, and he ate it.</p>
+      <p class="mb-4">So the Lord God banished them from the Garden of Eden to work the ground from which they had been taken.</p>
+      <p class="mb-4">Sin entered the world through one man, and death through sin. And in this way death came to all men, because all have sinned.</p>
+      <p class="mb-4">Iniquity has separated you from your God. Your sins have hidden His face from you.</p>
+      <p class="mb-4">"Then have them make a sanctuary for Me, and I will dwell among them."</p>
+      <p class="mb-4">Unless the Lord builds the house, its builders labor in vain.</p>
+      
+      <div class="mb-6 p-4 bg-slate-50 rounded-lg">
+        <p class="font-bold mb-2">Singing Hymn 376 (The SDA Hymnal) — "All Things Are Thine"</p>
+        <p class="italic mb-2">All things are Thine; no gift have we,<br>
+        Lord of all gifts, to offer Thee;<br>
+        And hence with grateful hearts today,<br>
+        Thine own before Thy feet we lay.</p>
+        <p class="italic mb-2">Thy will was in the builder's thought;<br>
+        Thy hand unseen amidst us wrought;<br>
+        Through mortal motive, scheme and plan,<br>
+        Thy wise, eternal purpose ran.</p>
+        <p class="italic mb-2">No lack Thy perfect fullness knew;<br>
+        For human needs and longings grew<br>
+        This house of prayer—this home of rest.<br>
+        Here may Thy saints be often blessed. . . .</p>
+        <p class="italic">O Father! deign these walls to bless;<br>
+        Make this the abode of righteousness,<br>
+        And let these doors a gateway be<br>
+        To lead us from ourselves to Thee!</p>
+      </div>
+      
+      <p class="mb-4 font-bold">Let Them Build a Community</p>
+      
+      <p class="mb-4">As you come to Him, the Living Stone—rejected by men but chosen by God and precious to Him— you also, like living stones, are being built into a spiritual house. You are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of Him who called you out of darkness into this wonderful light.</p>
+      <p class="mb-4">Once we were not a people, but now we are the people of God.</p>
+      <p class="mb-4">Once we had not received mercy, but now we have received mercy.</p>
+      <p class="mb-4">So then, just as you received Christ Jesus as Lord, continue in Him,</p>
+      <p class="mb-4">Rooted and built up in Him, strengthened in the faith as we were taught, and overflowing with thankfulness.</p>
+      
+      <div class="mb-6 p-4 bg-slate-50 rounded-lg">
+        <p class="font-bold mb-2">Singing Hymn 348 (The SDA Hymnal) — "The Church Has One Foundation"</p>
+        <p class="italic mb-2">The church has one foundation, 'tis Jesus Christ her Lord;<br>
+        She is His new creation, by water and the word;<br>
+        From heaven He came and sought her to be His holy bride;<br>
+        With His own blood He bought her, and for her life He died.</p>
+        <p class="italic">Elect from every nation, yet one o'er all the earth,<br>
+        Her charter of salvation, one Lord, one faith, one birth;<br>
+        One holy name she blesses, partakes one holy food,<br>
+        And to one hope she presses, with every grace endued.</p>
+      </div>
+      
+      <p class="mb-4 font-bold">Let Them Build a Character</p>
+      <p class="mb-4 italic text-sm text-slate-600">(children invited to the front for singing following this section)</p>
+      
+      <p class="mb-4">You have heard it said, "Eye for eye, tooth for tooth." But I tell you, "Do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also."</p>
+      <p class="mb-4">"And if someone wants to sue you and take your tunic, let him have your cloak as well."</p>
+      <p class="mb-4">"If someone forces you to go one mile, go two miles."</p>
+      <p class="mb-4">"Give to the one who asks you, and do not turn away from the one who wants to borrow from you."</p>
+      <p class="mb-4">You have heard it said, "Love your neighbor and hate your enemy."</p>
+      <p class="mb-4">But I tell you, "Love your enemies and pray for those who persecute you, that you may be sons of your Father in heaven."</p>
+      <p class="mb-4">"He causes the sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous."</p>
+      <p class="mb-4">Everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.</p>
+      <p class="mb-4">The rain came down, and the streams rose, and the winds blew and beat against that house, yet it did not fall, because it had its foundation on the rock.</p>
+      <p class="mb-4">But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.</p>
+      <p class="mb-4">The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.</p>
+      
+      <div class="mb-6 p-4 bg-slate-50 rounded-lg">
+        <p class="font-bold mb-2">Children singing "The Wise Man Built His House Upon the Rock"</p>
+        <p class="italic mb-2">The wise man built his house upon the rock,<br>
+        (repeat three times)<br>
+        And the rains came tumbling down.</p>
+        <p class="italic mb-2">O the rains came down and the floods came up,<br>
+        (repeat three times)<br>
+        And the house on the rock stood firm.</p>
+        <p class="italic pb-2">The foolish man built his house upon the sand,<br>
+        (repeat three times)<br>
+        And the rains came tumbling down.</p>
+        <p class="italic mb-2">O the rains came down and the floods came up,<br>
+        (repeat three times)<br>
+        And the house on the sand fell flat.</p>
+        <p class="text-sm text-slate-600 mt-2">(children return to their seats)</p>
+      </div>
+
+      <div class="mb-6 p-4 bg-slate-50 rounded-lg">
+        <p class="font-bold mb-2">Singing Hymn 531 (The SDA Hymnal) — "We'll Build on the Rock"</p>
+        <p class="italic mb-2">We'll build on the Rock, the living Rock,<br>
+        on Jesus, the Rock of Ages;<br>
+        So shall we abide the fearful shock,<br>
+        when loud the tempest rages.</p>
+        <p class="font-bold mt-2 mb-1">Refrain:</p>
+        <p class="italic mb-2">We'll build on the Rock, we'll build on the Rock;<br>
+        We'll build on the Rock, on the solid Rock,<br>
+        on Christ, the mighty Rock.</p>
+        <p class="italic mb-2">Some build on the sinking sands of life,<br>
+        on visions of earthly treasure;<br>
+        Some build on the waves of sin and strife,<br>
+        of fame and worldly pleasure.</p>
+        <p class="italic">O build on the Rock forever sure,<br>
+        the firm and the true foundation;<br>
+        Its hope is the hope which shall endure,<br>
+        the hope of our salvation.</p>
+      </div>
+      
+      <p class="mb-4">Now I commit you to God and to the word of His grace, which can build you up and give you an inheritance among all those who are sanctified.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">CONSECRATION OR DEDICATION BOOKLET</h4>
+      
+      <p class="mb-4">A consecration or dedication booklet becomes a treasured memento to church members and may include the following:</p>
+      
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>the order of service for the occasion</li>
+        <li>pictures of the construction process to its completion</li>
+        <li>the litany used during the act of dedication</li>
+        <li>names of the present and former pastors, if possible, with pictures and dates served</li>
+        <li>names of conference leaders participating</li>
+        <li>an abbreviated history of the church, including pictures of former church buildings</li>
+        <li>names of the architect, builder, and building committee</li>
+        <li>significant facts about the building—dates of groundbreaking, beginning construction, project completion, cost, seating capacity, and floor plan that identifies the location and purpose of each room</li>
+      </ul>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">GROUNDBREAKING</h4>
+      
+      <p class="mb-4">A groundbreaking service encourages congregational involvement and unity in supporting a building project engendering enthusiasm, especially when the church has been planning, praying, and giving in preparation for building.</p>
+      
+      <p class="mb-4"><strong>Setting the time.</strong> — Groundbreaking should not necessarily be considered a religious service and generally does not fit into Sabbath activities. Given that such activity occurs outside, issues such as weather and available light must be taken into consideration. In order to make it possible for the most people to attend, the choice of a day and time must be considered.</p>
+      
+      <p class="mb-4"><strong>Inviting the guests.</strong> — Conference representatives and local political and community leaders may be invited to attend, and representatives of news media should be notified and encouraged to give coverage of the event.</p>
+      
+      <p class="mb-4"><strong>Preparing the site.</strong> — The site should be cleared. Perhaps a platform should be erected and a sound system installed. Should the service be envisioned as a lengthy one, chairs may need to be included. Architectural drawings of the building should be displayed. A mockup of the proposed structure will help in visualizing the completed structure.</p>
+      
+      <p class="mb-4">If the groundbreaking includes the use of shovels, enough should be supplied for those involved in the breaking. Alternatively, earth-moving machinery may be used to turn over the first dirt. An additional variation involves the use of a plow attached to a long rope. The congregation pulls the plow through the ground as a symbol of pulling together in the building project. A furrow can be plowed around the perimeter of the new building, providing easy visualization of the site of the structure when finished.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER OF SERVICE</h4>
+      
+      <p class="mb-4"><strong>opening song</strong> — Because of the difficulty of singing outdoors, this portion of the service may be omitted, especially if the group is small.</p>
+      <p class="mb-4"><strong>prayer</strong> — If possible, involve guest personnel.</p>
+      <p class="mb-4"><strong>scripture</strong> — Texts and litanies listed above contain passages fitting for this event.</p>
+      <p class="mb-4"><strong>speeches</strong> — Guests may be invited to speak, and a statement of church history, the reasons for building, and plans for the future may be given.</p>
+      <p class="mb-4"><strong>groundbreaking</strong> — Participants in breaking the first ground usually include the pastor, the head elder, the building committee chair, and some representatives from the conference and the community. Should the building be a school, the participants should include the school board chair, the principal, a teacher, and a student.</p>
+      <p class="mb-4"><strong>benediction</strong></p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">STONELAYING</h4>
+      
+      <p class="mb-4">Similar to a groundbreaking ceremony, a stonelaying service may be held after the building has begun and features the laying of a stone that will become part of the foundation. The service can follow the same general order as for groundbreaking. Recommended scriptures include: Ezra 3:10, 11; 6:14; Matthew 21:42; Acts 4:11; 1 Corinthians 3:9-11; and 1 Peter 2:4-8.</p>
+    `
+  },
+  {
+    id: '37',
+    title: 'House Blessing',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 37</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">House Blessing</h2>
+      </div>
+
+      <p class="mb-4">The practice of house blessing varies according to culture and the wishes of each individual family. The world church does not have any regular tradition for such services. This service may be requested when a new home has been built, purchased, or leased, or with the final payment of the mortgage. Typically the house blessing is conducted after the completion of the house or when the occupants first move in. Such a service provides an opportunity to invite neighbors and friends for the occasion and to establish the home as a Christian witness in the neighborhood. Attendees often include neighbors of various religious backgrounds and some who are not practicing Christians.</p>
+
+      <p class="mb-4">Differentiation should be made between a house blessing and a church dedication. A house may be set aside to be of spiritual service to its family and neighborhood, but the church is set aside particularly for the worship of God. A house may be blessed, but the church is dedicated. House blessing sets the building apart for nurturing the love, unity, and spiritual growth of the family living there and witnessing to the neighborhood of the saving love of Jesus.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">WHO OFFICIATES</h4>
+
+      <p class="mb-4">No license or ordination is required for house blessing services. An elder may perform the service, but should do so with the knowledge and cooperation of the pastor.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORDER OF SERVICE</h4>
+
+      <p class="mb-4">Guests typically gather in a large room of the home, and, depending on the number in attendance, the room may be crowded. Some may be seated; others will likely be standing. Thus, the service should be brief, usually 30 minutes or less in length. The following order of service is suggested:</p>
+
+      <p class="mb-4"><strong>group singing</strong> — Singing as a group should be considered optional depending on the situation. Appropriate songs include "Happy the Home" and "Love at Home."</p>
+
+      <p class="mb-4"><strong>opening prayer</strong> — This first prayer seeks God’s presence in the home. Since there are three prayers in this service, the first and last should be brief and not repeat the prayer of blessing.</p>
+
+      <p class="mb-4"><strong>history of house</strong> — Given by a family member, perhaps the head of the household, this serves as a brief review of how this house came to be the home of the new family.</p>
+
+      <p class="mb-4"><strong>homily</strong> — The address should open with scripture and refer to biblical themes of establishing homes, families, and communities according to the plan and laws of God, stressing the need for interdependence and support of one another. Suggested scripture references are listed below.</p>
+
+      <p class="mb-4"><strong>prayer of blessing</strong> — Standing or kneeling in the center of the room, surrounded by the guests, the family joins hands with the guests as the service leader prays for the blessing and protection of God over the house, the family, and the surrounding neighborhood and community.</p>
+
+      <p class="mb-4"><strong>special song</strong> — With available accompaniment, "Bless This House" is an ideal song for this occasion.</p>
+
+      <p class="mb-4"><strong>benediction</strong> — This prayer should be brief and not repetitious of the prayer of blessing. A scriptural benediction may be appropriate, such as: "The Lord bless you and keep you; the Lord make His face shine upon you, and be gracious to you; the Lord lift up His countenance upon you, and give you peace" (Num. 6:24-26).</p>
+
+      <p class="mb-4"><strong>house tour</strong> — The host may wish to invite guests to tour the house. Refreshments are optional.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">SCRIPTURES AND LITANIES</h4>
+
+      <p class="mb-4 font-bold">Suggested Scriptures</p>
+
+      <p class="mb-4"><strong>Genesis 24:67</strong> — Home a place to find love and comfort.</p>
+      <p class="mb-4"><strong>2 Samuel 23:15</strong> — Home a precious place of refreshing.</p>
+      <p class="mb-4"><strong>Psalm 127</strong> — The Lord should build the house.</p>
+      <p class="mb-4"><strong>Isaiah 65:21-24</strong> — They shall build houses and inhabit them.</p>
+      <p class="mb-4"><strong>Micah 4:4</strong> — Everyone shall sit under his vine.</p>
+      <p class="mb-4"><strong>Luke 10:38-42</strong> — The place of work and worship in the home.</p>
+
+      <p class="mb-4 font-bold">Suggested Litany</p>
+
+      <div class="mb-6 p-4 bg-slate-50 rounded-lg">
+        <p class="mb-2"><span class="font-bold">Leader:</span> Eternal God, for this home committed to Your service and offered to Your honor and glory,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> For Your presence whenever two or three have gathered in Your name,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> For making us Your children through Jesus Christ our Savior,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> For giving us families in which to love and to be loved,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> For providing shelter, and food, and friends,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> For Your promise to dwell with us in peace,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">People:</span> We thank You, Lord.</p>
+        <p class="mb-2"><span class="font-bold">Leader:</span> Everything in heaven and on earth is Yours,</p>
+        <p class="mb-2 pl-4"><span class="font-bold">All Together:</span> And we exalt Your name above all. Amen.</p>
+      </div>
+
+      <p class="mb-4"><strong>Alternate litany.</strong> — The family may be addressed directly in a written litany, giving answers and commitment to such questions as:</p>
+
+      <ul class="list-disc pl-5 mb-4 space-y-2">
+        <li>Do you pledge to make this house a place of prayer, where devotions are revered?</li>
+        <li>Do you pledge to make this house a place of family love and unity?</li>
+        <li>Do you pledge to make this house a light to the community?</li>
+      </ul>
+    `
+  },
+  {
+    id: '38',
+    title: 'Pastoral Installation',
+    category: 'Services',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 38</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Pastoral Installation</h2>
+      </div>
+
+      <p class="mb-4">With pastoral transition an integral part of ministry, terms of service for a pastor tend to be in the range of three to six years on average, with some as short as a year or two and rarely longer than 10 or 15 years. This exists as an occupational expectation in ministry and church life but is not unique to it. Those who work in such careers as military service, politics, the entertainment industry, professional sports, and many others also live with the expectation that changes in location and leadership will be part of their lives.</p>
+
+      <p class="mb-4">Such transitions can be both an opportunity and a hardship on the pastoral family. Generally speaking, moving to a new location becomes stressful emotionally, physically, and financially. Given this reality, both conferences and churches have a responsibility to endeavor, as far as possible, to alleviate these stresses for the pastoral family.</p>
+
+      <p class="mb-4">The transition can also be stressful for the church. The departure of a loved and faithful pastor creates insecurity and disruption in the fellowship and program of the church. Yet it also opens the way for new ideas and fresh thinking that can bring renewed vision to the fellowship. No one person, no matter how gifted and loved, has all the ideas and abilities needed for the ongoing life of the congregation.</p>
+
+      <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">INSTALLATION SERVICE</h4>
+
+      <p class="mb-4"><strong>Celebrate the new.</strong> — Conferences and congregations have the responsibility of providing the installation service for the new pastor as an important symbolic act, publicly establishing a new pastorate. Pastors cannot plan their own installation. Church leaders and conference officials must take the cooperative initiative to prepare such an event. The installation should be part of the Sabbath worship service, when most members are present. The service should emphasize the introduction of the entire pastoral family, with respect given to their level of comfort in public recognition.</p>
+
+      <p class="mb-4"><strong>Introduction of conference representative.</strong> — The conference representative may not be well known to the congregation and should be introduced by the elder in charge, who expresses appreciation for the work of the conference officials in selecting and providing leadership for the church.</p>
+
+      <p class="mb-4"><strong>Conference representative’s remarks.</strong> — The conference representative provides background information regarding the process by which the new pastor was selected and how this appointment serves the needs of the congregation and community, and gives a brief biographical sketch of the pastoral family.</p>
+
+      <p class="mb-4"><strong>Welcome by elder.</strong> — The elder in charge speaks for the congregation in welcoming the pastor. The entire pastoral family may be invited to the platform to join the elder if they are comfortable doing so. With children in the pastor’s family, a word of welcome may be given from a Sabbath school teacher, church school teacher, youth or Pathfinder leader, or children of the church of similar age. A small token welcoming gift may be given as well.</p>
+
+      <p class="mb-4"><strong>Litany.</strong> — The following litany is a suggestion that may be used and adapted as needed to fit the installation service:</p>
+
+      <div class="mb-6 p-6 bg-slate-50 rounded-lg border border-slate-100">
+        <h5 class="text-xl font-bold text-center mb-1">A Litany of Service and the Word*</h5>
+        <div class="text-center italic text-sm text-slate-600 mb-6">On the Occasion of the Installation of [name of pastor] as Pastor of [name of church]</div>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-6">HEARING THE WORD</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Elder:</span> Man does not live on bread alone, but on every word that comes from the mouth of the Lord. The Word of God is living and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow. It judges the thoughts and attitudes of the heart.</p>
+
+        <p class="mb-4 pl-4 border-l-2 border-slate-200"><span class="font-bold text-slate-800">Congregation:</span> Nothing in all creation is hidden from God’s sight. Everything is uncovered and laid bare before the eyes of Him to whom we must give account. Therefore, since we have a great high priest who has gone through the heavens, Jesus the Son of God, let us hold firmly the faith we profess.</p>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Conference leader:</span> Faith comes from hearing the message, and the message is heard through the word of Christ. Everyone who trusts in Him will never be put to shame. The same Lord is Lord of all, and He richly blesses all who call on Him.</p>
+
+        <p class="mb-4 pl-4 border-l-2 border-slate-200"><span class="font-bold text-slate-800">Congregation:</span> How can they call on the One they have not believed in? And how can they believe in the One of whom they have not heard? And how can they hear without someone preaching to them? And how can they preach unless they are sent?</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">ACKNOWLEDGING THE CALL</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Pastor:</span> I heard the voice of the Lord saying, "Whom shall I send? And who will go for us?" And I said, "Here am I. Send me!" The Spirit of the Sovereign Lord is on me, because He has anointed me to preach good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release for the prisoners, to comfort all who mourn. And to provide for those who grieve in Zion, to bestow on them a crown of beauty instead of ashes, the oil of gladness instead of mourning, and a garment of praise instead of a spirit of despair.</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">JOINING THE SERVICE</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Deacon:</span> Is not this the kind of fasting I have chosen: to loose the chains of injustice and untie the cords of the yoke?</p>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Deaconess:</span> Is it not to share your food with the hungry and to provide the poor wanderer with shelter?</p>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Deacon:</span> When you see the naked, to clothe him, and not turn away from your own flesh and blood?</p>
+
+        <p class="mb-4 pl-4 border-l-2 border-slate-200"><span class="font-bold text-slate-800">Congregation:</span> Then your light will break forth like the dawn, and your healing will quickly appear. Your righteousness will go before you, and the glory of the Lord will be your rear guard.</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">KNOWING THE MISSION</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Pastor:</span> And this gospel of the kingdom will be preached in the whole world as a testimony to all nations,</p>
+
+        <p class="mb-4 pl-4 border-l-2 border-slate-200"><span class="font-bold text-slate-800">Congregation:</span> And then the end will come.</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">SINGING</h6>
+        <p class="mb-4 font-serif italic text-center">"O God, Our Help in Ages Past"</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">CATCHING THE VISION</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Conference leader:</span> God says that in the last days "I will pour out My Spirit on all people. Your sons and daughters will prophesy, your young men will see visions, your old men will dream dreams." What is your vision for ministry in this congregation in word, worship, fellowship, and service?</p>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Pastor:</span> I see the church as God’s redemptive and unified community, presenting to the world a seeking church, open to God’s self-disclosure in His Word and through the ministry of the Holy Spirit; a spiritual church that worships God as Creator and knows Christ as Savior, Friend, and sooncoming Lord; a mission-oriented church that proclaims the gospel in ways relevant to people everywhere; a united church that values the richness of diversity within the body of Christ; and a discipling church that equips believers for service and leadership.</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">ENTERING THE JOY</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Conference leader:</span> When the Son of Man comes in His glory, and all the angels with Him, He will sit on His throne in heavenly glory. Then the King will say to those on His right, "Come, you blessed of My Father, take your inheritance, the kingdom prepared for you since the creation of the world. For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you invited Me in, I needed clothes and you clothed Me, I was sick and you looked after Me, I was in prison and you came to visit Me."</p>
+
+        <p class="mb-4 pl-4 border-l-2 border-slate-200"><span class="font-bold text-slate-800">Congregation:</span> Then the righteous will answer Him, "Lord, when did we see You hungry and feed You, or thirsty and give You something to drink? When did we see You a stranger and invite You in, or needing clothes and clothe You? When did we see You sick or in prison and go to visit You?"</p>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Pastor:</span> The King will reply, "I tell you the truth, whatever you did for one of the least of these brothers of Mine, you did for Me."</p>
+
+        <h6 class="font-bold text-sm uppercase tracking-wide text-slate-400 mb-4 mt-8">RECEIVING THE BLESSING</h6>
+
+        <p class="mb-4"><span class="font-bold text-slate-800">Conference leader:</span> Before the Father, from whom His whole family in heaven and on earth derives its name, I pray that out of His glorious riches He may strengthen you with power through His Spirit in your inner being, so that Christ may dwell in your heart through faith. And I pray that you, being rooted and established in love, may have power, together with all the saints, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of the fullness of God. Now to Him who is able to do more than all we ask or imagine, according to His power that is at work within us, to Him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.</p>
+
+        <div class="mt-8 text-xs text-slate-500 border-t border-slate-200 pt-2">
+          <p>*Scripture texts taken and adapted from the New International Version include the following: Deuteronomy 8:3; Isaiah 6:8; Isaiah 58:6-8; Isaiah 61:1-3; Matthew 24:14; Matthew 25:31-40; Matthew 28:19, 20; Acts 2:17, 18; Romans 10:11-17; Ephesians 3:14-21; Ephesians 5:27; Hebrews 4:12-14</p>
+        </div>
+      </div>
+
+      <p class="mb-4"><strong>Installation prayer.</strong> — Facing the congregation, the pastor kneels (the family may be included), with the conference representative on one side and the elder in charge on the other. Other elders and church leaders may be invited to join in the prayer as well. The elder prays, inviting the congregation’s commitment in supporting the new pastor. The conference representative prays, officially installing the pastor as congregational leader. The conference representative then leads the elders and church leaders in welcoming the new pastoral family.</p>
+
+      <p class="mb-4"><strong>Church welcome.</strong> — After the close of the worship service, members of the congregation may greet and welcome the pastor as they leave the sanctuary. Additional opportunity for welcoming may be provided in a fellowship dinner.</p>
+    `
+  },
+  {
+    id: '39',
+    title: 'Retirement',
+    category: 'Ministry',
+    fullText: `
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 39</h1>
+        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Retirement</h2>
+      </div>
+
+      <p class="mb-4">As the apostle Paul comes near the close of his ministry, he accurately and succinctly sums up the challenges of his noble calling as he passes the torch on to the young Timothy. "Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering. . . . Be watchful in all things, endure afflictions, do the work of an evangelist, fulfill your ministry" (2 Tim. 4:2-5). Even though the call of God to Christian service never ends, still the day comes when a minister should pass the responsibility of leadership in the church on to others.</p>
+
+      <p class="mb-4">Church workers who, on account of age or condition of health, have retired from active service deserve honor and consideration. "The Lord would have our people understand that the pioneers in this work deserve all that our institutions can do for them. God calls upon us to understand that those who have grown old in His service deserve our love, our honor, our deepest respect" (Gospel Workers, p. 430).</p>
+
+      <p class="mb-4"><strong>Personal identity.</strong> — Naturally, one who spends many years in ministry will come to be identified with this role, and perceive their own identity in this context. However, to become so identified in the role of ministerial leadership that at its closing a loss of personal identity exists constitutes a mistake. Roles of family life, friends, and outside interests must be developed along with the identity that comes from ministerial roles, so that at its close there is still a sense of personal worth and usefulness.</p>
+
+      <p class="mb-4"><strong>Physical health.</strong> — Given the basically sedentary nature of the work of ministry, pastors should keep up a regular program of physical activity, not only to increase their ability to function during the time of church employment, but in order to enjoy a measure of health, allowing for an active retirement. "Without physical exercise, no one can have a sound constitution and vigorous health; and the discipline of well-regulated labor is no less essential to the securing of a strong and active mind and a noble character" (Patriarchs and Prophets, p. 601).</p>
+
+      <p class="mb-4"><strong>Financial security.</strong> — Ministers should consult with their employing organization to determine which retirement plan is available to them. "Because of increased governmental control of retirement plans and changing financial and social circumstances in many countries, ability to maintain a uniform world retirement policy is not possible" (GC Policy Z 05 05).</p>
+
+      <p class="mb-4">Denominational employees must carry the responsibility to be aware of retirement plans available from the church and governmental retirement systems and to participate in these plans in building toward a financially secure retirement. Such planning and saving should begin at the outset of ministerial service and continue through to its conclusion. In addition to church and governmental funds, personal savings are a vital part of retirement income.</p>
+
+      <p class="mb-4">Although Jesus cautioned, "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal" (Matt. 6:19), He also says to "do business till I come" (Luke 19:13). In the parable of the ten virgins (Matt. 25) the wise made provision to wait for the coming of the bridegroom while the foolish did not.</p>
+
+      <p class="mb-4"><strong>Transition.</strong> — A distinct transition needs to occur between fulltime pastoral leadership and the status of a retired minister who no longer directs the activities of the congregation where they reside. There are ministerial functions in the church in which a retired minister can be of great benefit to both the congregation and the pastor and find personal satisfaction in continued service.</p>
+
+      <p class="mb-4"><strong>Recognition of service.</strong> — In order to recognize the contribution that retired workers have made through their leadership roles, to foster appreciation and acknowledgment of their continuing service to the church, and to enhance their continuing effectiveness, the Ministerial Association makes the following recommendations:</p>
+
+      <ol class="list-decimal pl-5 mb-4 space-y-2">
+        <li>The employing organization should host a special recognition event that clearly marks the transition from active to retiree ministry.</li>
+        <li>Union or conference leaders are responsible for ensuring that the names of the retirees are listed in an appropriate publication.</li>
+        <li>The denomination should follow the policy of issuing honorary ministerial credentials that will permit the retiree to function in various pastoral roles even after they are no longer full-time ministerial employees of the denomination. Retirees should respect the policies concerning honorary credentials.</li>
+        <li>Conference leaders may recruit retirees to serve as supply preachers during pastoral interims, and as assistants in planning special functions. Retirees may be delegated assignments in which age and wisdom will combine to provide good counsel. They may be given short-term responsibilities that will expand the evangelistic, teaching, nurture, or organizational work of the church.</li>
+        <li>Conference leaders should instruct and, if necessary, admonish retired workers not to attempt to control the activities of churches that they once served but that now have new pastoral leadership.</li>
+      </ol>
+
+      <p class="mb-4"><strong>Honorary credentials.</strong> — Union conferences, upon the recommendation of the local conference, may issue honorary credentials to retired employees corresponding to the ones held during active service. Credentials are granted for the duration of the conference term and must be renewed by a vote of the conference in session. The possession of out-of-date or expired credentials does not authorize a retiree to function in any of the offices of a minister.</p>
+
+      <p class="mb-4">A retiree’s relationship to the church, as a carrier of an honorary credential, remains the same as that of any other member, except that they may still perform baptisms, weddings, and ordinations of church leaders, especially when the pastor is not available or not yet authorized to do so. In order to perform such functions the retiree needs to make the proper arrangements with conference or district leaders.</p>
+
+      <p class="mb-4"><strong>Joy of service.</strong> — As his ministry draws to a close, Paul looks back on it all and without regret says to Timothy, "I have fought the good fight, I have finished the race, I have kept the faith. Finally, there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will give to me on that Day, and not to me only but also to all who have loved His appearing" (2 Tim. 4:7, 8).</p>
+
+      <p class="mb-4">Ministry has its struggles and pains, but the joys and triumphs far surpass its difficulties, rendering them insignificant. The faithful servant receives, far beyond any earthly reward, the approbation of the Master: "Well done, good and faithful servant; you were faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord" (Matt. 25:21).</p>
+    `
+  },
 ];
