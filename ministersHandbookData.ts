@@ -90,8 +90,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Ministry',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 1</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">The Calling</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 1</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">The Calling</h1>
       </div>
 
       <p class="mb-4">Individuals who have received a call to the gospel ministry also receive at the same time a personal call from Christ. In addition, they accept an invitation from the church community who recognizes the call and affirms it, both by employing and credentialing the individual in pastoral ministry. The call comes in both instances from Christ and includes three distinct spiritual qualifications.</p>
@@ -129,8 +129,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Ministry',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 2</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Spiritual Formation</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 2</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Spiritual Formation</h1>
       </div>
 
       <p class="mb-4">Discipleship must become a personal spiritual discipline resulting in a private dimension before it can have a public influence. As a response to God's initiative, we cannot initiate discipleship on our own. This commitment leads us to center ourselves in Him while Christ becomes the passion of our lives. Private study of God's Word, meditation, and prayer are essential elements in a pastor's personal life.</p>
@@ -172,8 +172,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Ministry',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 3</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Interpersonal Relationships</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 3</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Interpersonal Relationships</h1>
       </div>
 
       <p class="mb-4">Christ's instruction to His disciples before His ascension was directed to the care of people. And this directive extends to all aspects of pastoral ministry. The supreme interest of the pastor must be serving people. As important as study, preaching, administration, teaching, or any other aspect of ministry may be, without each being centered in the service to people, it will not lead to success as a minister of Jesus Christ. People are a pastor's specialty. In this service the personal characteristics of integrity and warmth rate higher than professional skills. "Tact and good judgment increase the usefulness of the laborer a hundredfold" (Gospel Workers, p. 119).</p>
@@ -209,8 +209,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Personal Life',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 4</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Time Management</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 4</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Time Management</h1>
       </div>
 
       <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">THE GIFT OF TIME</h4>
@@ -246,8 +246,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Personal Life',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 5</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Personal Health</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 5</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Personal Health</h1>
       </div>
 
       <p class="mb-4">As an asset to ministry, good health provides the ability to do good work and serves as an example of the result of prudent and abstemious living. Loma Linda University health studies clearly demonstrate the advantages of the Adventist lifestyle's not only adding more years to life but improving health as well. "A merry heart does good, like medicine, but a broken spirit dries the bones" (Prov. 17:22).</p>
@@ -277,8 +277,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Personal Life',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 6</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Personal Appearance</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 6</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Personal Appearance</h1>
       </div>
 
       <p class="mb-4">Personal appearance definitely has an impact. When a pastor meets someone for the first time, that person makes an immediate judgment, accurate or not, based on appearance. Furthermore, appearance becomes an ongoing influence in continued ministry. "God expects His ministers, in their manners and in their dress, to give a fitting representation of the principles of truth and the sacredness of their office" (Gospel Workers, p. 174). "A minister who is negligent in his apparel often wounds those of good taste and refined sensibilities" (Testimonies, vol. 2, p. 613).</p>
@@ -306,8 +306,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Personal Life',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 7</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Personal Finance</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 7</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Personal Finance</h1>
       </div>
 
       <p class="mb-4">Personal finance has significant potential for positive and negative influence in both the congregation and the community. Even with the best of intentions the pastor can often be misunderstood in the area of finance. While expectations of the pastor do not include living in poverty, at the same time a lifestyle of conspicuous consumption and opulence will undermine what otherwise might be a successful ministry. Trust the Lord to provide, "and my God shall supply all your need according to His riches in glory by Christ Jesus" (Phil. 4:19).</p>
@@ -339,8 +339,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Personal Life',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 8</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Family Life</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 8</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Family Life</h1>
       </div>
 
       <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">MINISTRY AND THE HOME</h4>
@@ -378,8 +378,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Ethics',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 9</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Pastoral Ethics</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 9</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Pastoral Ethics</h1>
       </div>
 
       <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ETHICS CODE</h4>
@@ -470,8 +470,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Development',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 10</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Professional Growth</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 10</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Professional Growth</h1>
       </div>
 
       <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">GROWTH AS OPPORTUNITY</h4>
@@ -499,8 +499,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Organization',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 11</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Relationship to Church Organization</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 11</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Relationship to Church Organization</h1>
       </div>
 
       <h4 class="font-bold text-lg mt-8 mb-3 text-slate-800 border-b border-gray-100 pb-2">ORGANIZATION IS NEEDED</h4>
@@ -542,8 +542,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Organization',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 12</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Departmental Services</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 12</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Departmental Services</h1>
       </div>
 
       <p class="mb-4">The General Conference offers many departmental services designed to provide programs and resources to assist pastors and churches. Most of these departments have representatives at the division, union, and conference levels, although these departments should initially be contacted at the conference level. If not available, contact should be made with the next level of the church organization.</p>
@@ -1922,8 +1922,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 32</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Weddings</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 32</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Weddings</h1>
       </div>
 
       <p class="mb-4">Weddings generally are among the most joyful celebrations of the church and a delightful pastoral responsibility. They afford the opportunity to minister in a joyful and spiritual celebration for couples and their families and friends. "The family tie is the closest, the most tender and sacred, of any on earth. It was designed to be a blessing to mankind. And it is a blessing whenever the marriage covenant is entered into intelligently, in the fear of God, and with due consideration for its responsibilities" (The Adventist Home, p. 18).</p>
@@ -2069,8 +2069,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 33</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Child Dedication</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 33</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Child Dedication</h1>
       </div>
 
       <p class="mb-4">The dedication of children to God is a practice established in Scripture and in the history of the Seventh-day Adventist Church and is conducted by pastors or elders.</p>
@@ -2128,8 +2128,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 34</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Anointing and Deliverance</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 34</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Anointing and Deliverance</h1>
       </div>
 
       <p class="mb-4">In Scripture the act of anointing with oil and other substances connects with many different functions, such as the coronation of kings and the ordaining of priests and prophets. It is in the realm of prayer for the sick that anointing is presently practiced in the church, but its original significance has at times been distorted or lost in current usage. It was practiced in the early church in connection with prayer and became a comforting medical practice as well as a symbol of the blessing of the Holy Spirit's healing power. James instructs the ill to "call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven" (James 5:14, 15).</p>
@@ -2187,8 +2187,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 35</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Funerals</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 35</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Funerals</h1>
       </div>
 
       <p class="mb-4">Totally contrary to the nature of God as the Creator and Life-giver, death equates as the ultimate enemy of all that is good, an intrusion into the perfection of Eden brought on by sin that passed to all humanity. So death reigns as the untimely intrusion that disrupts all of life's joys and plans, demanding immediate attention. Yet even this most difficult and dreaded responsibility of ministry provides an opportunity to honor the memory of a loved one and comfort the bereaved in their loss, pointing them to the day of joyful reunion when "the last enemy," death, will be destroyed (1 Cor. 15:26).</p>
@@ -2323,8 +2323,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 36</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Church Opening, Dedication, and Groundbreaking</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 36</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Church Opening, Dedication, and Groundbreaking</h1>
       </div>
 
       <p class="mb-4">One of the highest of days in the life of a congregation involves establishing a new house of worship. Entering the new church as a congregation for the first time, and inviting the presence of God to reign supreme in the new edifice, comprise a joyful and sacred privilege. The tradition and policy of the Adventist Church, however, entails the holding of the dedication service only after the debt for the new facility has been paid.</p>
@@ -2545,8 +2545,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 37</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">House Blessing</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 37</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">House Blessing</h1>
       </div>
 
       <p class="mb-4">The practice of house blessing varies according to culture and the wishes of each individual family. The world church does not have any regular tradition for such services. This service may be requested when a new home has been built, purchased, or leased, or with the final payment of the mortgage. Typically the house blessing is conducted after the completion of the house or when the occupants first move in. Such a service provides an opportunity to invite neighbors and friends for the occasion and to establish the home as a Christian witness in the neighborhood. Attendees often include neighbors of various religious backgrounds and some who are not practicing Christians.</p>
@@ -2622,8 +2622,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Services',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 38</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Pastoral Installation</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 38</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Pastoral Installation</h1>
       </div>
 
       <p class="mb-4">With pastoral transition an integral part of ministry, terms of service for a pastor tend to be in the range of three to six years on average, with some as short as a year or two and rarely longer than 10 or 15 years. This exists as an occupational expectation in ministry and church life but is not unique to it. Those who work in such careers as military service, politics, the entertainment industry, professional sports, and many others also live with the expectation that changes in location and leadership will be part of their lives.</p>
@@ -2715,8 +2715,8 @@ export const MINISTERS_HANDBOOK_CHAPTERS: ManualChapter[] = [
     category: 'Ministry',
     fullText: `
       <div class="text-center mb-10">
-        <h1 class="text-3xl font-bold text-slate-900 font-serif">Chapter 39</h1>
-        <h2 class="text-2xl font-semibold text-slate-700 mt-2">Retirement</h2>
+        <h2 class="text-sm font-bold tracking-[0.2em] text-slate-500 mb-2">CHAPTER 39</h2>
+        <h1 class="text-3xl font-bold text-slate-900 font-serif">Retirement</h1>
       </div>
 
       <p class="mb-4">As the apostle Paul comes near the close of his ministry, he accurately and succinctly sums up the challenges of his noble calling as he passes the torch on to the young Timothy. "Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering. . . . Be watchful in all things, endure afflictions, do the work of an evangelist, fulfill your ministry" (2 Tim. 4:2-5). Even though the call of God to Christian service never ends, still the day comes when a minister should pass the responsibility of leadership in the church on to others.</p>
